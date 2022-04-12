@@ -16,4 +16,4 @@ More about [HLS on Wikipedia](https://de.wikipedia.org/wiki/Historisches_Lexikon
 [HLS](https://hls-dhs-dss.ch) is published under [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). See also Nutzungsbedingungen of HLS: [Urheberrechte und Verwendung der HLS-Inhalte](https://hls-dhs-dss.ch/de/about/usage#HUrheberrechteundVerwendungderHLS-Inhalte)
 
 You may use HLS to add Information on Wikidata / Wikipedia and even create a Wikipedia-article entirely based on an HLS-article. 
-:warning: If you do so, Cite all Informations! See section on How to.
+:warning: If you do so, Cite all Informations!
