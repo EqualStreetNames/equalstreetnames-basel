@@ -1,4 +1,4 @@
-# 🖤 Welcome to EqualStreetNames Basel 🖤
+# 🤍🖤 Welcome to EqualStreetNames Basel 🤍🖤
 
 Follow us on Twitter: https://twitter.com/EqualsnBasel
 
