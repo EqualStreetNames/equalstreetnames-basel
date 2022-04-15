@@ -1,4 +1,6 @@
 name,source,gender,wikidata,type
+Claragraben,wikidata,,Q1297194,way
+Clarahofweg,wikidata,,Q1297194,way
 Petersplatz,wikidata,,Q2079668,way
 Ackerstrasse,,,,way
 Adlerstrasse,,,,way
@@ -23,7 +25,6 @@ Altrheinweg,,,,way
 "Am Bahndamm",,,,way
 "Am Krayenrain",,,,way
 "Am Umschlagbahnhof",,,,way
-Amerbachstrasse,,,,way
 Amselstrasse,,,,way
 "An der hohlen Gasse",,,,way
 Andlauerstrasse,,,,way
@@ -100,7 +101,6 @@ Biascastrasse,,,,way
 Binningerstrasse,,,,way
 Binzenstrasse,,,,way
 Birkenstrasse,,,,way
-Birmannsgasse,,,,way
 Birseckstrasse,,,,way
 Birseckweglein,,,,way
 Birsfelderstrasse,,,,way
@@ -153,8 +153,6 @@ Centralbahnplatz,,,,way
 Centralbahnstrasse,,,,way
 Chrischonastrasse,,,,way
 Chrischonaweglein,,,,way
-Claragraben,,,,way
-Clarahofweg,,,,way
 Claramattweg,,,,way
 Claraplatz,,,,way
 Clarastrasse,,,,way
