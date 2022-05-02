@@ -1,4 +1,6 @@
 name,source,gender,wikidata,type
+Airolostrasse,wikidata,,Q69265,way
+Airoloweglein,wikidata,,Q69265,way
 Claragraben,wikidata,,Q1297194,way
 Clarahofweg,wikidata,,Q1297194,way
 Petersplatz,wikidata,,Q2079668,way
@@ -11,8 +13,6 @@ Aeschenvorstadt,,,,way
 Aescherstrasse,,,,way
 "Aeussere Baselstrasse",,,,way
 Ahornstrasse,,,,way
-Airolostrasse,,,,way
-Airoloweglein,,,,way
 Akazienweg,,,,way
 Alemannengasse,,,,way
 Allmendstrasse,,,,way
@@ -894,4 +894,3 @@ Ziegelstrasse,,,,way
 Zürcherstrasse,,,,way
 Zwölfjuchartenweglein,,,,way
 "am Bächli",,,,way
-gravel,,,,way
