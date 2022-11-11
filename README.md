@@ -27,3 +27,6 @@ More about [HLS on Wikipedia](https://de.wikipedia.org/wiki/Historisches_Lexikon
 
 You may use HLS to add Information on Wikidata / Wikipedia and even create a Wikipedia-article entirely based on an HLS-article. 
 :warning: If you do so, Cite all Informations!
+
+# Streetnames in Basel-Landschaft
+[Prix Promenade – «Frauennamen ins Strassennetz!»](https://www.gruppe14juni.ch/prix-promenade)
