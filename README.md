@@ -1,5 +1,9 @@
 # 🤍🖤 Welcome to EqualStreetNames Basel 🤍🖤
 
+> Street names reflect the commemorative decisions of each municipality over time, and as such can be understood as the city’s manifesto about its social, cultural and political values. (Oto-Peralías D, [2018](https://doi.org/10.1093/jeg/lbx030)).
+
+---
+
 Follow us on Twitter: https://twitter.com/EqualsnBasel
 
 Check out the progress: https://basel.equalstreetnames.eu/en.
@@ -28,5 +32,5 @@ More about [HLS on Wikipedia](https://de.wikipedia.org/wiki/Historisches_Lexikon
 You may use HLS to add Information on Wikidata / Wikipedia and even create a Wikipedia-article entirely based on an HLS-article. 
 :warning: If you do so, Cite all Informations!
 
-# Streetnames in Basel-Landschaft
+# 🤍❤️ Streetnames in Basel-Landschaft ❤️🤍
 [Prix Promenade – «Frauennamen ins Strassennetz!»](https://www.gruppe14juni.ch/prix-promenade)
