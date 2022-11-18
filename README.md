@@ -34,3 +34,8 @@ You may use HLS to add Information on Wikidata / Wikipedia and even create a Wik
 
 # 🤍❤️ Streetnames in Basel-Landschaft ❤️🤍
 [Prix Promenade – «Frauennamen ins Strassennetz!»](https://www.gruppe14juni.ch/prix-promenade)
+
+---
+# ToDo
+- [ ] Add Statement "coordinate location" to all Streetobjects ['Innerortsstraße' 'Straßenbrücke' 'Platz' 'Bogenbrücke'] in Wikidata e.g.: https://www.wikidata.org/wiki/Q27077277
+
