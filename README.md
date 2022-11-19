@@ -38,4 +38,5 @@ You may use HLS to add Information on Wikidata / Wikipedia and even create a Wik
 ---
 # ToDo
 - [ ] Add Statement "coordinate location" to all Streetobjects ['Innerortsstraße' 'Straßenbrücke' 'Platz' 'Bogenbrücke'] in Wikidata e.g.: https://www.wikidata.org/wiki/Q27077277
+- [ ] Take a look at https://github.com/d-gurtovoy/streetnameLinks
 
