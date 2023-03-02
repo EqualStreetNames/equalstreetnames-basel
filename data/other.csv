@@ -78,6 +78,7 @@ Bäumlihofstrasse,,,,way
 Beatengasse,,,,way
 Bechburgerstrasse,,,,way
 Beckenstrasse,,,,way
+Beckenweg,,,,way
 Bedrettostrasse,,,,way
 "Beim Buremichelskopf",,,,way
 "Beim Goldenen Löwen",,,,way
@@ -315,6 +316,7 @@ Helfenbergstrasse,,,,way
 Helvetiaplatz,,,,way
 Herbergsgasse,,,,way
 Herbstgasse,,,,way
+"Hermann-Hesse Platz",,,,way
 Herrengrabenweg,,,,way
 Herrenweg,,,,way
 Hersbergerweg,,,,way
@@ -339,7 +341,6 @@ Hofstetterstrasse,,,,way
 Hofweglein,,,,way
 "Hohe Winde-Strasse",,,,way
 Höhenweg,,,,way
-Höhenweg;Güterstrasse,,,,way
 Holderstrasse,,,,way
 Holeerain,,,,way
 Holeestrasse,,,,way
@@ -369,6 +370,7 @@ Igelsteinweglein,,,,way
 "Im Spitzacker",,,,way
 "Im Surinam",,,,way
 "Im Wasenboden",,,,way
+"Im Westfeld",,,,way
 "Im Witterswilerhof",,,,way
 "Im Zimmerhof",,,,relation
 "Im langen Loh",,,,way
@@ -433,7 +435,6 @@ Knöringerstrasse,,,,way
 Kohlenberg,,,,way
 Kohlenberggasse,,,,way
 Kohlenstrasse,,,,way
-Kontorstrasse,,,,way
 Konzertgasse,,,,way
 Kornhausgasse,,,,way
 Krachenrain,,,,way
@@ -668,6 +669,7 @@ Rümelinsplatz,,,,way
 Rümmingerstrasse,,,,way
 Rütlistrasse,,,,way
 Säckingerstrasse,,,,way
+Sägebergweglein,,,,way
 Sägergässlein,,,,way
 Saint-Louis-Strasse,,,,way
 Salinenstrasse,,,,way
@@ -677,7 +679,6 @@ Sandgrubenstrasse,,,,way
 Sandgrubenweglein,,,,way
 Sandweg,,,,way
 Sängergasse,,,,way
-"Sankt Johanns Hafen",,,,way
 Säntisstrasse,,,,way
 Sarnerstrasse,,,,way
 Sattelgasse,,,,way
@@ -762,9 +763,9 @@ St.Alban-Tal,,,,way
 St.Alban-Talstrasse,,,,way
 St.Alban-Vorstadt,,,,way
 St.Galler-Ring,,,,way
+St.Johanns-Hafen-Weg,,,,way
 St.Johanns-Parkweg,,,,way
 St.Johanns-Platz,,,,way
-St.Johanns-Rheinweg,,,,way
 St.Johanns-Ring,,,,way
 St.Johanns-Vorstadt,,,,way
 Stachelrain,,,,way
@@ -782,10 +783,10 @@ Steinenberg,,,,way
 Steinengraben,,,,way
 Steinenring,,,,way
 Steinenschanze,,,,way
+Steinenstapfelberg,,,,way
 Steinentorberg,,,,way
 Steinentorstrasse,,,,way
 Steinenvorstadt,,,,way
-Steinstapfelberg,,,,way
 Sternenbergerstrasse,,,,way
 Sternengasse,,,,way
 Stiftsgasse,,,,way
@@ -861,6 +862,7 @@ Weidengasse,,,,way
 Weiherhofstrasse,,,,way
 Weiherweg,,,,way
 Weilerweg,,,,way
+Weinlagerstrasse,,,,way
 "Weisse Gasse",,,,way
 Weissensteinstrasse,,,,way
 Welschmattstrasse,,,,way
