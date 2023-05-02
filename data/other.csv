@@ -1,8 +1,12 @@
 name,source,gender,wikidata,type
 Airolostrasse,wikidata,,Q69265,way
 Airoloweglein,wikidata,,Q69265,way
+Antilopenweg,wikidata,,Q25894,way
+Centralbahn-Passage,wikidata,,Q667201,way
+Centralbahnstrasse,wikidata,,Q667201,way
 Claragraben,wikidata,,Q1297194,way
 Clarahofweg,wikidata,,Q1297194,way
+Pelikanweglein,wikidata,,Q19413,way
 Petersplatz,wikidata,,Q2079668,way
 Ackerstrasse,,,,way
 Adlerstrasse,,,,way
@@ -29,7 +33,6 @@ Amselstrasse,,,,way
 "An der hohlen Gasse",,,,way
 Andlauerstrasse,,,,way
 Angensteinerstrasse,,,,way
-Antilopenweg,,,,way
 Anwilerstrasse,,,,way
 Appenzellerstrasse,,,,way
 Arabienstrasse,,,,way
@@ -148,9 +151,7 @@ Buschweilerweg,,,,way
 Buschwillerweglein,,,,way
 Byfangweg,,,,way
 Casinostrasse,,,,way
-Centralbahn-Passage,,,,way
 Centralbahnplatz,,,,way
-Centralbahnstrasse,,,,way
 Chrischonastrasse,,,,way
 Chrischonaweglein,,,,way
 Claramattweg,,,,way
@@ -584,7 +585,6 @@ Passwangstrasse,,,,way
 Paulusgasse,,,,way
 "Pausenplatz Primarschule Hirzbrunnen",,,,way
 Pelikanweg,,,,relation
-Pelikanweglein,,,,way
 Peter-Rot-Strasse,,,,way
 Petersgasse,,,,way
 Petersgraben,,,,way
@@ -751,10 +751,12 @@ Spitalstrasse,,,,way
 "St. Alban-Graben",,,,way
 "St. Alban-Kirchrain",,,,way
 "St. Alban-Rheinweg",,,,way
+"St. Alban-Ring",,,,way
 "St. Alban-Tal",,,,way
 "St. Alban-Talstrasse",,,,way
 "St. Alban-Vorstadt",,,,way
 "St. Albanteich-Promenade",,,,way
+"St. Galler-Ring",,,,way
 "St. Jakob-Strasse",,,,way
 "St. Jakobs-Strasse",,,,way
 "St. Johanns-Hafen-Weg",,,,way
@@ -765,8 +767,6 @@ Spitalstrasse,,,,way
 "St. Johanns-Tunnel",,,,way
 "St. Johanns-Vorstadt",,,,way
 St.Alban-Graben,,,,way
-St.Alban-Ring,,,,way
-St.Galler-Ring,,,,way
 Stachelrain,,,,way
 Stadionstrasse,,,,way
 Stadthausgasse,,,,way
