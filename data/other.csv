@@ -33,7 +33,6 @@ Amselstrasse,,,,way
 "An der hohlen Gasse",,,,way
 Andlauerstrasse,,,,way
 Angensteinerstrasse,,,,way
-"Anne Frank-Platz",,,,way
 Anwilerstrasse,,,,way
 Appenzellerstrasse,,,,way
 Arabienstrasse,,,,way
@@ -715,7 +714,7 @@ Schwarzwaldallee,,,,way
 Schwarzwaldbrücke,,,,way
 Schwarzwaldstrasse,,,,way
 Schwarzwaldtunnel,,,,way
-Schweizergasse,,,,relation
+Schweizergasse,,,,relation+way
 Schwörstadterstrasse,,,,way
 Seltisbergerstrasse,,,,way
 Seltisbergerweglein,,,,way
@@ -810,7 +809,7 @@ Theaterplatz,,,,relation
 Theaterstrasse,,,,way
 Theodorsgraben,,,,way
 Theodorskirchplatz,,,,way
-Therwilerstrasse,,,,relation
+Therwilerstrasse,,,,relation+way
 Thiersteinerallee,,,,way
 Thiersteinerrain,,,,way
 Thiersteinersteg,,,,way
