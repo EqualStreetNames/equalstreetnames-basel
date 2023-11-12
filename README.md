@@ -8,24 +8,25 @@
 
 ---
 
+🌟 [basel.equalstreetnames.eu](https://basel.equalstreetnames.eu) shows soon all Streets named after a Person. 🌟  
+🚧 This means, work is still ongoing 🚧
+  
+Follow us on Twitter: https://twitter.com/EqualsnBasel
 
-<!--
-# How to to be overviewed
-The aim of this section is to provide a guideline on how to collect, store and link the required data so it can be used by equalstreetnames.
+
+
+# Overview 
+The aim of this section is to provide an Overview on how to prepare the required data so it will be shown on the map of [basel.equalstreetnames.eu](https://basel.equalstreetnames.eu)
 
 Basic steps are:
-1. Identifiy a Street named after a Person
+1. Identifiy the Street, named after a Person, on [Strassennamen](https://data.bs.ch/explore/dataset/100189/information/)
 2. Find the Wikidata-Item of this street
 3. Find the Wikidata-Item of the Person
 4. Link the Street-Wikidata-Item with the Person-Wikidata-Item
+5. Link the Street-Wikidata-Item with the Geometry on OpenStreetMap
 
-Use following Spreadsheet to get working:
-[Workinglist](https://docs.google.com/spreadsheets/d/1ONbDBkYPxVkZ0lsC-Cm07OYaQsixLnNraNKnyIv4tWo/edit?usp=sharing)
-* Finaly all streets in the Workinglist should have a Value in Column D.
-* The Spreadsheet is autoupdating after some seconds when opening.
-* A Street is missing? please create an Issue.
-
-See following sections to find out more about the work that can be done.
+<!--
+See following sections to find out more in detail.
 
 ## Identify Streets named after a Person
 1. Find a Street in the [Workinglist](https://docs.google.com/spreadsheets/d/1ONbDBkYPxVkZ0lsC-Cm07OYaQsixLnNraNKnyIv4tWo/edit?usp=sharing) (Column B) which is not allready link to a Person (Column D).
@@ -63,35 +64,23 @@ Done :muscle:
 
 
 
-
-
-
-Follow us on Twitter: https://twitter.com/EqualsnBasel
-
-Check out the progress: https://basel.equalstreetnames.eu/en.
-
 # Datasources
+
+## Datenportal Kanton Basel-Stadt
+On the OGD-Portal is an up to date List of all Streetnames and the meaning of there Names available: [Strassennamen](https://data.bs.ch/explore/dataset/100189/information/).
+
 ## Liste der Strassennamen von Basel
-Wikipedia has a Site [Liste der Strassennamen von Basel](https://de.wikipedia.org/wiki/Liste_der_Strassennamen_von_Basel). This List contains explanations of the Namingsources. However, it seems this List is based on a [List published by the Bau- und Verkehrsdepartement](https://www.bvd.bs.ch/dam/jcr:b8733740-18a4-4bff-892f-d90b03c36681/Basler%20Strassennamen%20mit%20Kurzerklaerungen%202017-10-18.pdf) from 18. October 2017 and last updated 2017.
+Wikipedia has a Site [Liste der Strassennamen von Basel](https://de.wikipedia.org/wiki/Liste_der_Strassennamen_von_Basel). This List contains explanations of the Namingsources. However, it seems this List is based on a [List published by the Bau- und Verkehrsdepartement](https://www.bvd.bs.ch/dam/jcr:b8733740-18a4-4bff-892f-d90b03c36681/Basler%20Strassennamen%20mit%20Kurzerklaerungen%202017-10-18.pdf) from 18. October 2017.  
+Do not use this list for basel.equalstreetnames.eu.
 
-## Geoportal Kanton Basel-Stadt
-There is a Layer "Strassennamen" available on the Geoportal: [www.geo.bs.ch/strassennamen](www.geo.bs.ch/strassennamen).
-By clicking the Streets explanations about the Name will be shown.
-
-## Geoportal Kanton Basel-Stadt
-https://data.bs.ch/explore/dataset/100189/information/
-
-## Geoportal Kanton Basel-Stadt
-On the OGD-Portal is an up to date List of all Streetnames and there Namingsources available: [Strassennamen](https://data.bs.ch/explore/dataset/100189/information/).
-
-:warning: Please be aware that there might be some Licence Issues. We try to find out more about this.
 
 ## Historisches Lexikon der Schweiz (HLS)
+To add more informationen about a Person on Wikidata, HLS is an excelent source.
 More about [HLS on Wikipedia](https://de.wikipedia.org/wiki/Historisches_Lexikon_der_Schweiz).
 
 [HLS](https://hls-dhs-dss.ch) is published under [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). See also Nutzungsbedingungen of HLS: [Urheberrechte und Verwendung der HLS-Inhalte](https://hls-dhs-dss.ch/de/about/usage#HUrheberrechteundVerwendungderHLS-Inhalte)
 
-You may use HLS to add Information on Wikidata / Wikipedia and even create a Wikipedia-article entirely based on an HLS-article. 
+You may use HLS to add Information on Wikidata / Wikipedia and even create a Wikipedia-article entirely based on an HLS-article.  
 :warning: If you do so, Cite all Informations!
 
 # 🤍❤️ Streetnames in Basel-Landschaft ❤️🤍
@@ -99,6 +88,6 @@ You may use HLS to add Information on Wikidata / Wikipedia and even create a Wik
 
 ---
 # ToDo
-- [ ] Add Statement "coordinate location" to all Streetobjects ['Innerortsstraße' 'Straßenbrücke' 'Platz' 'Bogenbrücke'] in Wikidata e.g.: https://www.wikidata.org/wiki/Q27077277
+- [x] Add Statement "coordinate location" to all Streetobjects ['Innerortsstraße' 'Straßenbrücke' 'Platz' 'Bogenbrücke'] in Wikidata e.g.: https://www.wikidata.org/wiki/Q27077277
 - [ ] Take a look at https://github.com/d-gurtovoy/streetnameLinks
 
