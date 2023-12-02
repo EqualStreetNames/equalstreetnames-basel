@@ -1,28 +1,37 @@
 name,source,gender,wikidata,type
+Aescherstrasse,wikidata,,Q68367,way
 Airolostrasse,wikidata,,Q69265,way
 Airoloweglein,wikidata,,Q69265,way
+Alemannengasse,wikidata,,Q132990,way
+Allschwilerstrasse,wikidata,,Q64727,relation+way
+Altkircherstrasse,wikidata,,Q208119,way
+Angensteinerstrasse,wikidata,,Q537748,way
 Antilopenweg,wikidata,,Q25894,way
+Anwilerstrasse,wikidata,,Q66803,way
+Appenzellerstrasse,wikidata,,Q209270,way
+Arbedostrasse,wikidata,,Q626957,way
+Arlesheimerstrasse,wikidata,,Q581647,way
+Asconastrasse,wikidata,,Q63992,way
+Augsterweg,wikidata,,Q66515,way
+Breisacherstrasse,wikidata,,Q489911,way
 Centralbahn-Passage,wikidata,,Q667201,way
 Centralbahnstrasse,wikidata,,Q667201,way
 Claragraben,wikidata,,Q1297194,way
 Clarahofweg,wikidata,,Q1297194,way
 Pelikanweglein,wikidata,,Q19413,way
 Petersplatz,wikidata,,Q2079668,way
+Wild-Ma-Gässli,wikidata,,Q1071580,way
 Ackerstrasse,,,,way
 Adlerstrasse,,,,way
 Aeschen-Passage,,,,way
 Aeschengraben,,,,way
 Aeschenplatz,,,,way
 Aeschenvorstadt,,,,way
-Aescherstrasse,,,,way
 "Aeussere Baselstrasse",,,,way
 Ahornstrasse,,,,way
 Akazienweg,,,,way
-Alemannengasse,,,,way
 Allmendstrasse,,,,way
 Allschwilerplatz,,,,way
-Allschwilerstrasse,,,,relation+way
-Altkircherstrasse,,,,way
 Altrheinweg,,,,way
 "Am Bachgraben",,,,way
 "Am Bächli",,,,way
@@ -32,22 +41,18 @@ Altrheinweg,,,,way
 Amselstrasse,,,,way
 "An der hohlen Gasse",,,,way
 Andlauerstrasse,,,,way
-Angensteinerstrasse,,,,way
-Anwilerstrasse,,,,way
-Appenzellerstrasse,,,,way
 Arabienstrasse,,,,way
-Arbedostrasse,,,,way
 Archivgässlein,,,,way
-Arlesheimerstrasse,,,,way
-Asconastrasse,,,,way
 Auberg,,,,way
 "Auf dem Hummel",,,,way
 "Auf dem Wolf",,,,way
 "Auf der Alp",,,,way
 "Auf der Lyss",,,,way
-Augsterweg,,,,way
 Augustinergasse,,,,way
 "Ausfahrt Grosspeter",,,,way
+"Ausgang Aeschergraben",,,,way
+"Ausgang Baloise Park",,,,way
+"Ausgang Elisabethen",,,,way
 "Ausgang Schweizerhof",,,,way
 Austrasse,,,,way
 "Avenue de Bâle",,,,relation
@@ -127,7 +132,6 @@ Bollweilerstrasse,,,,way
 Bollwerk-Promenade,,,,way
 Bonfolstrasse,,,,way
 Bordeaux-Strasse,,,,way
-Breisacherstrasse,,,,way
 Bristenweg,,,,way
 Brombacherstrasse,,,,way
 Bruderholzallee,,,,way
@@ -172,7 +176,7 @@ Dorenbachviadukt,,,,way
 Dorfstrasse,,,,way
 Dornacherstrasse,,,,way
 Drahtzugstrasse,,,,way
-Dreihäuserweglein,,,,way
+Dreihäusernweglein,,,,way
 Dreikönig-Weglein,,,,way
 Dreirosenbrücke,,,,way
 Dreirosenstrasse,,,,way
@@ -213,7 +217,6 @@ Erlenparksteg,,,,way
 Erlenstrasse,,,,way
 Erlkönigweg,,,,way
 Erstfeldstrasse,,,,way
-Fächenweglein,,,,way
 Fahnengässlein,,,,way
 Faidostrasse,,,,way
 Falkensteinerstrasse,,,,way
@@ -221,6 +224,7 @@ Färberstrasse,,,,way
 Farnsburgerstrasse,,,,way
 Fasanenstrasse,,,,way
 Fäschengasse,,,,way
+Fäschenweglein,,,,way
 Fasnachtsgasse,,,,way
 Feierabendstrasse,,,,way
 Feldbergstrasse,,,,way
@@ -278,7 +282,6 @@ Greifengasse,,,,way
 Grellingerstrasse,,,,way
 Grenzacher-Promenade,,,,way
 Grenzacherstrasse,,,,way
-Grenzacherstraße,,,,way
 Grenzstrasse,,,,way
 Grienstrasse,,,,way
 Grimselstrasse,,,,way
@@ -311,12 +314,10 @@ Hechtliacker,,,,way
 Hechtweg,,,,way
 Hegenheimermattweg,,,,way
 Hegenheimerstrasse,,,,way
-Heinrichsgasse,,,,way
 Helfenbergstrasse,,,,way
 Helvetiaplatz,,,,way
 Herbergsgasse,,,,way
 Herbstgasse,,,,way
-"Hermann-Hesse Platz",,,,way
 Herrengrabenweg,,,,way
 Herrenweg,,,,way
 Hersbergerweg,,,,way
@@ -354,7 +355,6 @@ Hundsbuckelweglein,,,,way
 Hüningerstrasse,,,,way
 Hunnenstrasse,,,,way
 Hutgasse,,,,way
-Igelsteinweglein,,,,way
 "Im Burgfelderhof",,,,way
 "Im Ettingerhof",,,,way
 "Im Grenzacherhof",,,,way
@@ -382,6 +382,7 @@ Immengasse,,,,way
 "In den Schorenmatten",,,,way
 "In den Ziegelhöfen",,,,way
 Ingelsteinweg,,,,way
+Ingelsteinweglein,,,,way
 "Innere Margarethenstrasse",,,,way
 "Innerer Egliseeweg",,,,way
 Inselstrasse,,,,way
@@ -737,6 +738,7 @@ Sonnenweg,,,,way
 Spalen-Durchgang,,,,way
 Spalenberg,,,,way
 Spalengraben,,,,way
+Spalenhof,,,,way
 Spalenring,,,,way
 Spalentorweg,,,,way
 Spalenvorstadt,,,,way
@@ -872,7 +874,6 @@ Wiesenkreisel,,,,way
 Wiesenplatz,,,,way
 Wiesenschanzweg,,,,way
 Wiesenstrasse,,,,way
-Wild-Ma-Gässli,,,,way
 Wildensteinerstrasse,,,,way
 Wildschutzweg,,,,way
 "Wilhelm Denz-Strasse",,,,way
