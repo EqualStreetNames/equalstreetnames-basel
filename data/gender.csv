@@ -1,5 +1,6 @@
 name,source,gender,wikidata,type
 "Anne Frank-Platz",wikidata,F,Q4583,way
+"Cécile Ines Loos-Anlage",wikidata,F,Q1150116,way
 "Julia Gauss-Strasse",wikidata,F,Q1711843,way
 "Maja Sacher-Platz",wikidata,F,Q1885994,way
 "Mathilde Paravicini-Strasse",wikidata,F,Q1908713,way
@@ -19,6 +20,7 @@ Brantgasse,wikidata,M,Q60351,way
 Brennerstrasse,wikidata,M,Q546077,way
 Bungestrasse,wikidata,M,Q89429,way
 "C.F. Meyer-Strasse",wikidata,M,Q123261,way
+"Christoph Merian-Park",wikidata,M,Q122485,way
 "Christoph Merian-Platz",wikidata,M,Q122485,way
 "Daniel Fechter-Promenade",wikidata,M,Q1159892,way
 "De Wette-Strasse",wikidata,M,Q77864,way
@@ -47,6 +49,7 @@ Gotthelfstrasse,wikidata,M,Q122358,way
 "Hans Huber-Strasse",wikidata,M,Q673938,way
 Hauserweglein,wikidata,M,Q15621718,way
 Hebelplatz,wikidata,M,Q62512,way
+Hebelschanze,wikidata,M,Q62512,way
 Hebelstrasse,wikidata,M,Q62512,way
 Heinrichsgasse,wikidata,M,Q103556,way
 "Henric Petri-Strasse",wikidata,M,Q55842868,way
@@ -69,6 +72,7 @@ Lachenalweglein,wikidata,M,Q21518266,way
 Oekolampadstrasse,wikidata,M,Q123450,way
 "Oscar Frey-Strasse",wikidata,M,Q1383856,way
 Paracelsusstrasse,wikidata,M,Q83428,way
+"Paul Sacher-Anlage",wikidata,M,Q124102,way
 Pestalozzistrasse,wikidata,M,Q105428,way
 "Peter Merian-Strasse",wikidata,M,Q2077023,way
 "Peter Merian-Weg",wikidata,M,Q2077023,way
@@ -92,9 +96,11 @@ Socinstrasse,wikidata,M,Q120141,way
 Speiserstrasse,wikidata,M,Q1694936,way
 Stöberstrasse,wikidata,M,Q95291;Q365837,way
 "Theodor Herzl-Strasse",wikidata,M,Q44003,way
+Tschudi-Park,wikidata,M,Q115548,way
 Uhlandstrasse,wikidata,M,Q61058,way
 "Urs Graf-Strasse",wikidata,M,Q688304,way
 Vesalgasse,wikidata,M,Q170267,way
+Voltamatte,wikidata,M,Q680,way
 Voltaplatz,wikidata,M,Q680,way
 Voltastrasse,wikidata,M,Q680,way
 Wattstrasse,wikidata,M,Q9041,way

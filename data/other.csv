@@ -18,6 +18,7 @@ Centralbahn-Passage,wikidata,,Q667201,way
 Centralbahnstrasse,wikidata,,Q667201,way
 Claragraben,wikidata,,Q1297194,way
 Clarahofweg,wikidata,,Q1297194,way
+Claramatte,wikidata,,Q1297194,way
 Pelikanweglein,wikidata,,Q19413,way
 Peterskirchplatz,wikidata,,Q2079668,way
 Petersplatz,wikidata,,Q2079668,way
@@ -102,6 +103,7 @@ Belforterstrasse,,,,way
 Bellingerweg,,,,way
 Bellinzonastrasse,,,,way
 Bellinzonaweglein,,,,way
+Benkenpark,,,,way
 Benkenstrasse,,,,way
 Bergalingerstrasse,,,,way
 Bernerring,,,,way
@@ -135,6 +137,8 @@ Bollweilerstrasse,,,,way
 Bollwerk-Promenade,,,,way
 Bonfolstrasse,,,,way
 Bordeaux-Strasse,,,,way
+"Botanischer Garten",,,,way
+Breitematte,,,,way
 Bristenweg,,,,way
 Brombacherstrasse,,,,way
 Bruderholzallee,,,,way
@@ -149,6 +153,7 @@ Bundesplatz,,,,relation
 Bundesstrasse,,,,way
 Bündnerstrasse,,,,way
 Buremichelskopf-Promenade,,,,way
+Buremichelskopfanlage,,,,way
 Bürenfluhstrasse,,,,way
 Bürenfluhweglein,,,,way
 Burgfelderstrasse,,,,way
@@ -181,6 +186,7 @@ Dornacherstrasse,,,,way
 Drahtzugstrasse,,,,way
 Dreihäusernweglein,,,,way
 Dreikönig-Weglein,,,,way
+Dreirosenanlage,,,,way
 Dreirosenbrücke,,,,way
 Dreirosenstrasse,,,,way
 Drosselstrasse,,,,way
@@ -212,6 +218,7 @@ Entenweidstrasse,,,,way
 Eptingerstrasse,,,,way
 Erdbeergraben,,,,way
 Erikastrasse,,,,way
+Erlenmattpark,,,,way
 Erlenmattplatz,,,,way
 Erlenmattstrasse,,,,way
 Erlenmattweg,,,,way
@@ -242,6 +249,7 @@ Flughafenstrasse,,,,way
 Flurweg,,,,way
 Föhrenstrasse,,,,way
 Forellenweg,,,,way
+Forum,,,,way
 Frankfurt-Strasse,,,,way
 Freiburgersteg,,,,way
 Freiburgerstrasse,,,,way
@@ -259,6 +267,7 @@ Furkastrasse,,,,way
 Fürstensteinerstrasse,,,,way
 "Galerie Gellerthochhaus",,,,way
 Galgenhügel-Promenade,,,,way
+"Garten Sandgrube",,,,way
 Gartenstrasse,,,,way
 Gärtnerstrasse,,,,way
 Gasstrasse,,,,way
@@ -294,6 +303,7 @@ Grosspeterstrasse,,,,way
 Grünpfahlgasse,,,,way
 Gundeldingerrain,,,,way
 Gundeldingerstrasse,,,,way
+"Gundeli Park",,,,way
 Gundeli-Passerelle,,,,way
 Güterstrasse,,,,way
 Habsburgerstrasse,,,,way
@@ -337,6 +347,7 @@ Hirzbrunnen-Promenade,,,,way
 Hirzbrunnenallee,,,,way
 Hirzbrunnenschanze,,,,way
 Hirzbrunnenstrasse,,,,way
+Hochbergerpark,,,,way
 Hochbergerplatz,,,,way
 Hochbergerstrasse,,,,way
 Hochstrasse,,,,way
@@ -350,6 +361,7 @@ Holeerain,,,,way
 Holeestrasse,,,,way
 Hölleweglein,,,,way
 Homburgerstrasse,,,,way
+Horburgpark,,,,way
 Horburgplatz,,,,way
 Horburgstrasse,,,,way
 Horburgtunnel,,,,way
@@ -404,6 +416,7 @@ Kahlstrasse,,,,way
 Kaltbrunnen-Promenade,,,,way
 Kaltbrunnenstrasse,,,,way
 Kandererstrasse,,,,way
+Kannenfeldpark,,,,way
 Kannenfeldplatz,,,,way
 Kannenfeldstrasse,,,,way
 Kannenfeldweglein,,,,way
@@ -446,11 +459,13 @@ Krachenrain,,,,way
 Krachenrainweglein,,,,way
 Kraftstrasse,,,,way
 Krakaustrasse,,,,way
+Kronenplatz,,,,way
 Küchengasse,,,,way
 Lachenstrasse,,,,way
 Landauerhofweg,,,,way
 Landauerstrasse,,,,way
 Landauerweglein,,,,way
+"Landschaftspark Gellertgut",,,,way
 Landskronstrasse,,,,way
 "Lange Gasse",,,,way
 Langenhagweg,,,,way
@@ -472,6 +487,7 @@ Lerchenstrasse,,,,way
 Letziplatz,,,,way
 Leuengasse,,,,way
 Lichtstrasse,,,,way
+Liesbergermatte,,,,way
 Liesbergerstrasse,,,,way
 Liestaleranlage,,,,way
 Lindenberg,,,,way
@@ -491,6 +507,7 @@ Lützelstrasse,,,,way
 Luzernerring,,,,way
 Luzernerring-Tunnel,,,,way
 Lyon-Strasse,,,,way
+"Lysa Büchels Garten",,,,way
 Lysbüchelplatz,,,,way
 Lysbüchelstrasse,,,,relation+way
 Magdenstrasse,,,,way
@@ -499,6 +516,7 @@ Maiengasse,,,,way
 Maispracherweg,,,,way
 Malzgasse,,,,way
 Margarethenbrücke,,,,way
+Margarethenpark,,,,way
 Margarethenstich,,,,way
 Margarethenstrasse,,,,way
 Mariasteinstrasse,,,,way
@@ -575,6 +593,7 @@ Oberalpstrasse,,,,way
 Oberwilerstrasse,,,,relation
 Obwaldnerstrasse,,,,way
 Ochsengasse,,,,way
+Oekolampadpark,,,,way
 Oetlingerstrasse,,,,way
 Offenburgerstrasse,,,,way
 Olsbergerweg,,,,way
@@ -608,9 +627,11 @@ Prag-Strasse,,,,way
 Prattelerstrasse,,,,way
 Prattelertunnel,,,,way
 Predigerhofstrasse,,,,way
+Pruntrutermatte,,,,way
 Pruntruterstrasse,,,,way
 "Quai de la Brigade du Languedoc",,,,way
 Quellenweg,,,,way
+Raemelmatte,,,,way
 "RailCity Passerelle",,,,way
 Rämelstrasse,,,,way
 "Rampe Bachmann",,,,way
@@ -656,7 +677,9 @@ Roggenburgstrasse,,,,way
 Rollerhof,,,,way
 Römergasse,,,,way
 Röschenzerstrasse,,,,way
+Rosenfeldpark,,,,way
 Rosengartenweg,,,,way
+Rosentalanlage,,,,way
 Rosentalstrasse,,,,way
 Rosshofgasse,,,,way
 Rotbergerstrasse,,,,way
@@ -713,7 +736,9 @@ Schopfheimerstrasse,,,,way
 Schorenweg,,,,way
 Schulgasse,,,,way
 Schützengraben,,,,way
+Schützenmattpark,,,,way
 Schützenmattstrasse,,,,way
+Schwarzpark,,,,way
 Schwarzwaldallee,,,,way
 Schwarzwaldbrücke,,,,way
 Schwarzwaldstrasse,,,,way
@@ -732,6 +757,7 @@ Singerstrasse,,,,way
 Singertunnel,,,,way
 Singerweg,,,,way
 Sissacherstrasse,,,,way
+Solitude-Park,,,,way
 Solitude-Promenade,,,,way
 Solothurnerstrasse,,,,way
 Sommergasse,,,,way
@@ -749,6 +775,8 @@ Sperrstrasse,,,,way
 Spiegelbergstrasse,,,,way
 Spiegelgasse,,,,way
 Spiegelhof,,,,way
+"Spielplatz Rehhagstrasse",,,,way
+Spitalgarten,,,,way
 Spitalstrasse,,,,way
 "St. Alban-Anlage",,,,way
 "St. Alban-Berg",,,,way
@@ -758,12 +786,14 @@ Spitalstrasse,,,,way
 "St. Alban-Ring",,,,way
 "St. Alban-Tal",,,,way
 "St. Alban-Talstrasse",,,,way
+"St. Alban-Tor Park",,,,way
 "St. Alban-Vorstadt",,,,way
 "St. Albanteich-Promenade",,,,way
 "St. Galler-Ring",,,,way
 "St. Jakob-Strasse",,,,way
 "St. Jakobs-Strasse",,,,way
 "St. Johanns-Hafen-Weg",,,,way
+"St. Johanns-Park",,,,way
 "St. Johanns-Parkweg",,,,way
 "St. Johanns-Platz",,,,way
 "St. Johanns-Rheinweg",,,,way
@@ -771,6 +801,7 @@ Spitalstrasse,,,,way
 "St. Johanns-Tunnel",,,,way
 "St. Johanns-Vorstadt",,,,way
 St.Alban-Graben,,,,way
+St.Johanns-Platz,,,,way
 Stachelrain,,,,way
 Stadionstrasse,,,,way
 Stadthausgasse,,,,way
@@ -779,6 +810,7 @@ Stapfelberg,,,,way
 Starenstrasse,,,,way
 Starenweglein,,,,way
 Steinbühlallee,,,,way
+Steinbühlmattli,,,,way
 Steinbühlplatz,,,,way
 Steinbühlweg,,,,way
 Steinenbachgässlein,,,,way
@@ -810,7 +842,9 @@ Theater-Passage,,,,way
 Theatergässlein,,,,way
 Theaterplatz,,,,relation
 Theaterstrasse,,,,way
+"Theodor Herzl-Anlage",,,,way
 Theodorsgraben,,,,way
+Theodorsgraben-Anlage,,,,way
 Theodorskirchplatz,,,,way
 Therwilerstrasse,,,,relation+way
 Thiersteinerallee,,,,way
@@ -819,12 +853,14 @@ Thiersteinersteg,,,,way
 Thiersteinerweglein,,,,way
 Thumringerstrasse,,,,way
 Tiergartenrain,,,,way
+"Tierpark Lange Erlen",,,,way
 Tödistrasse,,,,way
 Totengässlein,,,,way
 Totentanz,,,,way
 Tramweglein,,,,way
 "Treppe Euler",,,,way
 Trillengässlein,,,,way
+"Trudi Gerster-Anlage",,,,way
 Tüllingerstrasse,,,,way
 Türkheimerstrasse,,,,way
 Turnerstrasse,,,,way
@@ -839,6 +875,7 @@ Ulmenweglein,,,,way
 "Unterer Rheinweg",,,,way
 Utengasse,,,,way
 Verkehrsgarten,,,,way
+"Verkehrsgarten Basel-Stadt",,,,way
 Viaduktstrasse,,,,way
 Viertelkreis,,,,way
 Vogel-Gryff-Gässlein,,,,way
@@ -900,3 +937,4 @@ Ziegelstrasse,,,,way
 Zürcherstrasse,,,,way
 Zwölfjuchartenweglein,,,,way
 "am Bächli",,,,way
+"an der Tangente",,,,way
