@@ -19,7 +19,10 @@ Centralbahnstrasse,wikidata,,Q667201,way
 Claragraben,wikidata,,Q1297194,way
 Clarahofweg,wikidata,,Q1297194,way
 Pelikanweglein,wikidata,,Q19413,way
+Peterskirchplatz,wikidata,,Q2079668,way
 Petersplatz,wikidata,,Q2079668,way
+Tellplatz,wikidata,,Q30908,way
+Tellstrasse,wikidata,,Q30908,way
 Wild-Ma-Gässli,wikidata,,Q1071580,way
 Ackerstrasse,,,,way
 Adlerstrasse,,,,way
@@ -347,6 +350,7 @@ Holeerain,,,,way
 Holeestrasse,,,,way
 Hölleweglein,,,,way
 Homburgerstrasse,,,,way
+Horburgplatz,,,,way
 Horburgstrasse,,,,way
 Horburgtunnel,,,,way
 Hörnliweglein,,,,way
@@ -588,7 +592,6 @@ Pelikanweg,,,,relation
 Peter-Rot-Strasse,,,,way
 Petersgasse,,,,way
 Petersgraben,,,,way
-Peterskirchplatz,,,,way
 Pfalz,,,,way
 Pfarrgasse,,,,way
 Pfeffergässlein,,,,way
@@ -801,8 +804,6 @@ Tangentenweg,,,,way
 Tannenfluhweg,,,,way
 Tanzgässlein,,,,way
 Teichgässlein,,,,way
-Tellplatz,,,,way
-Tellstrasse,,,,way
 Tessinstrasse,,,,way
 Thannerstrasse,,,,relation
 Theater-Passage,,,,way
