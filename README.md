@@ -1,21 +1,24 @@
 # 🤍🖤 Welcome to EqualStreetNames Basel 🤍🖤
 
-> Street names reflect the commemorative decisions of each municipality over time, and as such can be understood as the city’s manifesto about its social, cultural and political values. (Oto-Peralías D, [2018](https://doi.org/10.1093/jeg/lbx030)).
+> Street names reflect the commemorative decisions of each municipality over time, and as such can be understood as the city’s manifesto about its social, cultural and political values. <cite>(Oto-Peralías D, [2018](https://doi.org/10.1093/jeg/lbx030))</cite>.
+
 
 > Die deutliche Absenz von konkreten Frauenfiguren im öffentlichen Raum spiegeln [...] die Schweizer Geschichtsvergessenheit in Bezug auf Frauen und ihren Ausschluss aus der politischen und wirtschaftlichen Sphäre.
 >
-> -- <cite>Essay der Historikerinnen Tiziana Bonetti und Rachel Huber. [In blick.ch](https://www.blick.ch/life/wissen/geschichte/schweizer-erinnerungskultur-wieso-es-mehr-frauendenkmaeler-braucht-id17408231.html)</cite>  
+> -- <cite>Essay der Historikerinnen Tiziana Bonetti und Rachel Huber. In [blick.ch](https://www.blick.ch/life/wissen/geschichte/schweizer-erinnerungskultur-wieso-es-mehr-frauendenkmaeler-braucht-id17408231.html)</cite>  
 
 ---
 
-🌟 [basel.equalstreetnames.eu](https://basel.equalstreetnames.eu) shows soon all Streets named after a Person. 🌟  
-🚧 This means, work is still ongoing 🚧
-  
-Follow us on Twitter: https://twitter.com/EqualsnBasel
+Follow on:
+- Mastodon: [@EqualsnBasel@swiss.social](https://swiss.social/@EqualsnBasel)
 
+# Overview
+🌟 [basel.equalstreetnames.eu](https://basel.equalstreetnames.eu) shows all Streets named after a Person. 🌟  
+This means there should no more streets missing on the map. If we missed one, please leave a note on mastodon or raise an issue in this repo. Thanks 🙌
 
+---
 
-# Overview 
+# How To 
 The aim of this section is to provide an Overview on how to prepare the required data so it will be shown on the map of [basel.equalstreetnames.eu](https://basel.equalstreetnames.eu)
 
 Basic steps are:
