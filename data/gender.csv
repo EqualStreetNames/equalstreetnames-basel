@@ -1,6 +1,7 @@
 name,source,gender,wikidata,type
 "Anne Frank-Platz",wikidata,F,Q4583,way
 "Cécile Ines Loos-Anlage",wikidata,F,Q1150116,way
+"Irène Zurkinden-Platz",wikidata,F,Q1673322,relation
 "Julia Gauss-Strasse",wikidata,F,Q1711843,way
 "Maja Sacher-Platz",wikidata,F,Q1885994,way
 "Mathilde Paravicini-Strasse",wikidata,F,Q1908713,way
@@ -78,6 +79,7 @@ Pestalozzistrasse,wikidata,M,Q105428,way
 "Peter Merian-Weg",wikidata,M,Q2077023,way
 "Peter Ochs-Strasse",wikidata,M,Q676747,way
 "Peter Rot-Strasse",wikidata,M,Q17579891,way
+Peter-Rot-Strasse,wikidata,M,Q17579891,way
 Pfeffelstrasse,wikidata,M,Q77742,way
 Picassoplatz,wikidata,M,Q5593,way
 Redingbrücke,wikidata,M,Q335977,way
@@ -110,4 +112,5 @@ Wettsteinplatz,wikidata,M,Q676457,way
 Wettsteinstrasse,wikidata,M,Q676457,way
 "Wilhelm His-Strasse",wikidata,M,Q115601,way
 "Wilhelm Klein-Strasse",wikidata,M,Q2573646,way
+Winkelriedplatz,wikidata,M,Q42717,way
 Zwingerstrasse,wikidata,M,Q116094,way
