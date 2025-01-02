@@ -341,6 +341,7 @@ Thiersteinerweglein,wikidata,,Q1157516,way
 Tödistrasse,wikidata,,Q15134,way
 Türkheimerstrasse,wikidata,,Q157729,way
 Turnerstrasse,wikidata,,Q1302645,way
+Vogesenplatz,wikidata,,Q187843,way
 Vogesenstrasse,wikidata,,Q187843,way
 Volkensbergerstrasse,wikidata,,Q466661,way
 Waldeckstrasse,wikidata,,Q30739992,way
@@ -402,7 +403,6 @@ Barfüssergasse,,,,way
 Barfüsserplatz,,,,way
 "Basel Badischer Bahnhof",,,,way
 "Basel Breite",,,,way
-"Basel City",,,,way
 "Basel Wettstein",,,,way
 "Basel-Breite Birsfelden",,,,way
 Basel-Wettstein,,,,way
@@ -462,13 +462,11 @@ Dorfstrasse,,,,way
 Drahtzugstrasse,,,,way
 Dreihäusernweglein,,,,way
 Dreirosenanlage,,,,way
-Dreirosenbrücke,,,,way
 Dreirosenstrasse,,,,way
 Efringerstrasse,,,,way
 Egliseestrasse,,,,way
 Egliseeweglein,,,,way
 Eimeldingerweg,,,,way
-"Einfahrt Grosspeter",,,,way
 "Einfahrt Wolf",,,,way
 Eisengasse,,,,way
 "Eiserner Steg",,,,way
@@ -507,7 +505,6 @@ Friedhofstrasse,,,,way
 Friedmattweglein,,,,way
 Fringelistrasse,,,,way
 Fringeliweglein,,,,way
-"Galerie Gellerthochhaus",,,,way
 Galgenhügel-Promenade,,,,way
 "Garten Sandgrube",,,,way
 Gartenstrasse,,,,way
@@ -572,7 +569,6 @@ Holeestrasse,,,,way
 Horburgpark,,,,way
 Horburgplatz,,,,way
 Horburgstrasse,,,,way
-Horburgtunnel,,,,way
 Hörnliweglein,,,,way
 Hummelweglein,,,,way
 Hundsbuckelweglein,,,,way
@@ -612,7 +608,6 @@ Jakobsbergerweglein,,,,way
 Johanniterbrücke,,,,way
 Johanniterstrasse,,,,way
 Käferholzstrasse,,,,way
-Kannenfeldpark,,,,way
 Kannenfeldplatz,,,,way
 Kannenfeldstrasse,,,,way
 Kannenfeldweglein,,,,way
@@ -645,6 +640,7 @@ Kornhausgasse,,,,way
 Kraftstrasse,,,,way
 Kronenplatz,,,,way
 Küchengasse,,,,way
+Kunigunde-Platz,,,,way
 Lachenstrasse,,,,way
 Landauerhofweg,,,,way
 Landauerstrasse,,,,way
@@ -761,7 +757,6 @@ Reverenzgässlein,,,,way
 Rheingasse,,,,way
 Rheinländerstrasse,,,,way
 Rheinsprung,,,,way
-Rheintunnel,,,,way
 Rheinweg,,,,way
 Rheinweilerweg,,,,way
 Riburgstrasse,,,,way
@@ -818,7 +813,6 @@ Schwarzwaldtunnel,,,,way
 Sesselackerweglein,,,,way
 Signalstrasse,,,,way
 Singerstrasse,,,,way
-Singertunnel,,,,way
 Singerweg,,,,way
 Solitude-Park,,,,way
 Solitude-Promenade,,,,way
@@ -834,7 +828,6 @@ Spalenvorstadt,,,,way
 Sperrstrasse,,,,way
 Spiegelgasse,,,,way
 Spiegelhof,,,,way
-"Spielplatz Rehhagstrasse",,,,way
 Spitalgarten,,,,way
 Spitalstrasse,,,,way
 "St. Alban-Ring",,,,way
@@ -844,7 +837,6 @@ Spitalstrasse,,,,way
 "St. Johanns-Park",,,,way
 "St. Johanns-Rheinweg",,,,way
 "St. Johanns-Ring",,,,way
-"St. Johanns-Tunnel",,,,way
 "St. Johanns-Vorstadt",,,,way
 St.Johanns-Platz,,,,way
 Stachelrain,,,,way
@@ -873,6 +865,7 @@ Tangentenweg,,,,way
 Tannenfluhweg,,,,way
 Tanzgässlein,,,,way
 Teichgässlein,,,,way
+"Temporäre Passarelle Basel SBB",,,,way
 Thannerstrasse,,,,relation
 Theater-Passage,,,,way
 Theatergässlein,,,,way
@@ -921,6 +914,7 @@ Weinlagerstrasse,,,,way
 "Weisse Gasse",,,,way
 Welschmattstrasse,,,,way
 Westquaistrasse,,,,way
+"Wibrandis Rosenblatt-Weg",,,,way
 Wiesenschanzweg,,,,way
 Wildschutzweg,,,,way
 "Wilhelm Denz-Strasse",,,,way

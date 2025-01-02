@@ -1,7 +1,7 @@
 name,source,gender,wikidata,type
 "Anne Frank-Platz",wikidata,F,Q4583,way
 "Cécile Ines Loos-Anlage",wikidata,F,Q1150116,way
-"Irène Zurkinden-Platz",wikidata,F,Q1673322,relation
+"Irène Zurkinden-Platz",wikidata,F,Q1673322,relation+way
 "Julia Gauss-Strasse",wikidata,F,Q1711843,way
 "Maja Sacher-Platz",wikidata,F,Q1885994,way
 "Mathilde Paravicini-Strasse",wikidata,F,Q1908713,way
