@@ -1,372 +1,6 @@
 name,source,gender,wikidata,type
-Aeschengraben,wikidata,,Q391993,way
-Aeschenvorstadt,wikidata,,Q381839,way
-Aescherstrasse,wikidata,,Q68367,way
-"Aeussere Baselstrasse",wikidata,,Q78,way
-Ahornstrasse,wikidata,,Q42292,way
-Airolostrasse,wikidata,,Q69265,way
-Airoloweglein,wikidata,,Q69265,way
-Akazienweg,wikidata,,Q81666,way
-Alemannengasse,wikidata,,Q132990,way
-Allschwilerplatz,wikidata,,Q64727,way
-Allschwilerstrasse,wikidata,,Q64727,relation+way
-Altkircherstrasse,wikidata,,Q208119,way
-Amselstrasse,wikidata,,Q25234,way
-Angensteinerstrasse,wikidata,,Q537748,way
-Antilopenweg,wikidata,,Q25894,way
-Anwilerstrasse,wikidata,,Q66803,way
-Appenzellerstrasse,wikidata,,Q209270,way
-Arbedostrasse,wikidata,,Q626957,way
-Archivgässlein,wikidata,,Q2324698,way
-Arlesheimerstrasse,wikidata,,Q581647,way
-Asconastrasse,wikidata,,Q63992,way
-Augsterweg,wikidata,,Q66515,way
-Augustinergasse,wikidata,,Q29075,way
-"Bachgraben Promenade",wikidata,,Q90128597,way
-Badweglein,wikidata,,Q124217518,way
-Baldeggerstrasse,wikidata,,Q115685847,way
-Bärschwilerstrasse,wikidata,,Q66716,way
-Bartenheimerstrasse,wikidata,,Q320293,way
-Baslerstrasse,wikidata,,Q78,way
-Bättwilerstrasse,wikidata,,Q70027,way
-Bauhinweglein,wikidata,,Q746706,way
-Bechburgerstrasse,wikidata,,Q1552127,way
-Bedrettostrasse,wikidata,,Q67035,way
-"Beim Letziturm",wikidata,,Q1821268,way
-"Beim Wasserturm",wikidata,,Q1302826,way
-"Beim Wettsteinhäuschen",wikidata,,Q20617580,way
-Beinwilerstrasse,wikidata,,Q65391,way
-Belforterstrasse,wikidata,,Q171545,way
-Bellinzonastrasse,wikidata,,Q64044,way
-Bellinzonaweglein,wikidata,,Q64044,way
-Benkenstrasse,wikidata,,Q15787681,way
-Bergalingerstrasse,wikidata,,Q21269430,way
-Bernerring,wikidata,,Q70,way
-Beuggenstrasse,wikidata,,Q315097,way
-Biascastrasse,wikidata,,Q67523,way
-Binningerstrasse,wikidata,,Q69621,way
-Birkenstrasse,wikidata,,Q25243,way
-Birsfelderstrasse,wikidata,,Q64665,way
-Birsigstrasse,wikidata,,Q572072,way
-Birskopfweglein,wikidata,,Q865869,way
-Birsstrasse,wikidata,,Q14340,way
-Blauensteinerstrasse,wikidata,,Q15213175,way
-Blauenstrasse,wikidata,,Q882567,way
-Blotzheimerstrasse,wikidata,,Q467351,way
-Blotzheimerweg,wikidata,,Q467351,way
-Bollweilerstrasse,wikidata,,Q326352,way
-Bonfolstrasse,wikidata,,Q67993,way
-Bordeaux-Strasse,wikidata,,Q1479,way
-Breisacherstrasse,wikidata,,Q489911,way
-Bristenweg,wikidata,,Q55283533,way
-Bruderholzallee,wikidata,,Q255746,way
-Bruderholzrain,wikidata,,Q255746,way
-Bruderholzstrasse,wikidata,,Q255746,way
-Bruderholzweg,wikidata,,Q255746,way
-Brüglingerstrasse,wikidata,,Q996890,way
-Buchenstrasse,wikidata,,Q59779138,way
-Bündnerstrasse,wikidata,,Q11925,way
-Burgfelderstrasse,wikidata,,Q895219,way
-Burgunderstrasse,wikidata,,Q1173,way
-Buschweilerweg,wikidata,,Q367141,way
-Buschwillerweglein,wikidata,,Q367141,way
-Byfangweg,wikidata,,Q858239,way
-Centralbahn-Passage,wikidata,,Q667201,way
-Centralbahnstrasse,wikidata,,Q667201,way
-Claragraben,wikidata,,Q1297194,way
-Clarahofweg,wikidata,,Q1297194,way
-Claramatte,wikidata,,Q1297194,way
-Claraplatz,wikidata,,Q20615923,way
-Colmarerstrasse,wikidata,,Q130994,way
-Dachsfelderstrasse,wikidata,,Q67203,way
-Dammerkirchstrasse,wikidata,,Q382438,way
-Delsbergerallee,wikidata,,Q63896,way
-Dittingerstrasse,wikidata,,Q66590,way
-Dorenbach-Promenade,wikidata,,Q1243893,way
-Dorenbachviadukt,wikidata,,Q1243893,way
-Dornacherstrasse,wikidata,,Q64694,way
-Dreikönig-Weglein,wikidata,,Q678997,way
-Drosselstrasse,wikidata,,Q26050,way
-Duggingerhof,wikidata,,Q66736,way
-Eggfluhstrasse,wikidata,,Q1297653,way
-Eichenstrasse,wikidata,,Q12004,way
-Eichhornstrasse,wikidata,,Q4388,way
-Eichhornweglein,wikidata,,Q4388,way
-Eidgenossenweg,wikidata,,Q124216,way
-Eisenbahnweg,wikidata,,Q119161,way
-Elsässerrheinweg,wikidata,,Q1142,way
-Elsässerstrasse,wikidata,,Q1142,way
-Ensisheimerstrasse,wikidata,,Q455645,way
-Eptingerstrasse,wikidata,,Q13142568,way
-Erdbeergraben,wikidata,,Q745;Q2048319,way
-Erstfeldstrasse,wikidata,,Q69642,way
-Faidostrasse,wikidata,,Q69673,way
-Falkensteineranlage,wikidata,,Q1010707;Q1157640,way
-Falkensteinerstrasse,wikidata,,Q1010707;Q1157640,way
-Farnsburgerstrasse,wikidata,,Q359967,way
-Fasanenstrasse,wikidata,,Q25432,way
-Fäschengasse,wikidata,,Q978317,way
-Fäschenweglein,wikidata,,Q978317,way
-Feldbergstrasse,wikidata,,Q316401,way
-Flughafenstrasse,wikidata,,Q156971,way
-Föhrenstrasse,wikidata,,Q12024,way
-Forellenweg,wikidata,,Q2258881,way
-Frankfurt-Strasse,wikidata,,Q1794,way
-Freiburgersteg,wikidata,,Q2833,way
-Freiburgerstrasse,wikidata,,Q2833,way
-Friedensgasse,wikidata,,Q158021,way
-Friedlingerstrasse,wikidata,,Q105847639,way
-Froburgstrasse,wikidata,,Q339236,way
-Fröschgasse,wikidata,,Q13142604,way
-Furkastrasse,wikidata,,Q666628,way
-Fürstensteinerstrasse,wikidata,,Q2175269,way
-Gempenstrasse,wikidata,,Q66542,way
-Gilgenbergerstrasse,wikidata,,Q2175270,way
-Giornico-Promenade,wikidata,,Q67763,way
-Giornicostrasse,wikidata,,Q67763,way
-Glaserbergstrasse,wikidata,,Q1529410,way
-Göschenenstrasse,wikidata,,Q69639,way
-Gotthardstrasse,wikidata,,Q25233,way
-Grellingerstrasse,wikidata,,Q66821,way
-Grenzacher-Promenade,wikidata,,Q47520101,way
-Grenzacherstrasse,wikidata,,Q47520101,way
-Grenzstrasse,wikidata,,Q1991810,way
-Grimselstrasse,wikidata,,Q666668,way
-Grimselweglein,wikidata,,Q666668,way
-Gundeldingerrain,wikidata,,Q19362831,way
-Gundeldingerstrasse,wikidata,,Q809905,way
-Gundeli-Passerelle,wikidata,,Q809905,way
-Habsburgerstrasse,wikidata,,Q65968,way
-Hagenaustrasse,wikidata,,Q22730,way
-Hagentalerstrasse,wikidata,,Q317134;Q325102,way
-Hamburg-Strasse,wikidata,,Q1055,way
-Hasenmattstrasse,wikidata,,Q15230,way
-Hasenmattweglein,wikidata,,Q15230,way
-Häsingerstrasse,wikidata,,Q466682,way
-Hauensteinstrasse,wikidata,,Q119225144,way
-Hechtweg,wikidata,,Q165278,way
-Hegenheimerstrasse,wikidata,,Q333540,way
-Helfenbergstrasse,wikidata,,Q22614101,way
-Helvetiaplatz,wikidata,,Q15317,way
-Herbstgasse,wikidata,,Q1314,way
-Hersbergerweg,wikidata,,Q66572,way
-Hofstetterstrasse,wikidata,,Q70010,way
-"Hohe Winde-Strasse",wikidata,,Q1623566,way
-Hölleweglein,wikidata,,Q476352,way
-Homburgerstrasse,wikidata,,Q2175325,way
-Hüningerstrasse,wikidata,,Q83415,way
-"Im Ettingerhof",wikidata,,Q70012,way
-"Im Margarethenletten",wikidata,,Q16266354,way
-"Im Margarethental",wikidata,,Q16266354,way
-"Im Witterswilerhof",wikidata,,Q70059,way
-Immengasse,wikidata,,Q102857,way
-Isteinerstrasse,wikidata,,Q1674838,way
-Jurastrasse,wikidata,,Q178611,way
-Kahlstrasse,wikidata,,Q1060143,way
-Kaltbrunnen-Promenade,wikidata,,Q18413097,way
-Kaltbrunnenstrasse,wikidata,,Q18413097,way
-Kandererstrasse,wikidata,,Q61661,way
-Karpfenweg,wikidata,,Q81110,way
-Kastanienweg,wikidata,,Q129324,way
-Kaysersbergerstrasse,wikidata,,Q83485,way
-Keltentreppe,wikidata,,Q35966,way
-Kembserweg,wikidata,,Q83482,way
-Kienbergstrasse,wikidata,,Q64533,way
-Kirchgasse,wikidata,,Q9319105,way
-Klingnaustrasse,wikidata,,Q67135,way
-Knöringerstrasse,wikidata,,Q123013,way
-Krachenrain,wikidata,,Q150784,way
-Krachenrainweglein,wikidata,,Q150784,way
-Krakaustrasse,wikidata,,Q31487,way
-Landskronstrasse,wikidata,,Q992215,way
-Largitzenstrasse,wikidata,,Q123155,way
-Laufenstrasse,wikidata,,Q68363,way
-Laupenring,wikidata,,Q67112;Q667606,way
-Leimenstrasse,wikidata,,Q124258,way
-Leonhardsstrasse,wikidata,,Q1819333,way
-Lerchenstrasse,wikidata,,Q29858,way
-Letziplatz,wikidata,,Q2390720,way
-Liesbergermatte,wikidata,,Q67265,way
-Liesbergerstrasse,wikidata,,Q67265,way
-Liestaleranlage,wikidata,,Q68972,way
-Lothringerplatz,wikidata,,Q1137,way
-Lothringerstrasse,wikidata,,Q1137,way
-Löwenbergstrasse,wikidata,,Q29785472,way
-Löwenbergweglein,wikidata,,Q29785472,way
-Luftgässlein,wikidata,,Q29683765,way
-Lützelstrasse,wikidata,,Q1880486,way
-Luzernerring,wikidata,,Q4191,way
-Lyon-Strasse,wikidata,,Q456,way
-Maiengasse,wikidata,,Q1187930,way
-Malzgasse,wikidata,,Q58190533,way
-Margarethenstich,wikidata,,Q16266354,way
-Margarethenstrasse,wikidata,,Q16266354,way
-Mariasteinstrasse,wikidata,,Q70025,way
-Marignanostrasse,wikidata,,Q42932,way
-Markircherstrasse,wikidata,,Q500400,way
-Marschalkenstrasse,wikidata,,Q13142776,way
-Martinsgasse,wikidata,,Q1555900,way
-Martinsgässlein,wikidata,,Q1555900,way
-Martinskirchplatz,wikidata,,Q1555900,way
-Mattenstrasse,wikidata,,Q30121,way
-Meltingerstrasse,wikidata,,Q66357,way
-Metzerstrasse,wikidata,,Q22690,way
-Michelbacherstrasse,wikidata,,Q148054;Q148071,way
-Missionsstrasse,wikidata,,Q355684,way
-Mönchsbergerstrasse,wikidata,,Q2175360,way
-Morgartenring,wikidata,,Q20826973;Q326989,way
-Muespacherstrasse,wikidata,,Q149329,way
-Mülhauserstrasse,wikidata,,Q79815,way
-Mülhauserweglein,wikidata,,Q79815,way
-Münchensteinerstrasse,wikidata,,Q69030,way
-Murbacherstrasse,wikidata,,Q148815,way
-Murtengasse,wikidata,,Q68283;Q688502,way
-Mythenstrasse,wikidata,,Q16517,way
-Näfelserstrasse,wikidata,,Q182806;Q667460,way
-Nagelfluhweglein,wikidata,,Q191704,way
-Nasenweg,wikidata,,Q654583,way
-Nenzlingerstrasse,wikidata,,Q66401,way
-Neudorfstrasse,wikidata,,Q122332,way
-Neuensteinerstrasse,wikidata,,Q29681929,way
-Neuweilerplatz,wikidata,,Q149827,way
-Neuweilerstrasse,wikidata,,Q149827,way
-Nidwaldnerstrasse,wikidata,,Q12592,way
-Novarastrasse,wikidata,,Q6046,way
-Nufenenstrasse,wikidata,,Q570647,way
-Oberalpstrasse,wikidata,,Q661013,way
-Obwaldnerstrasse,wikidata,,Q12573,way
-Oetlingerstrasse,wikidata,,Q307414,way
-Oltingerstrasse,wikidata,,Q147882,way
-Ormalingerweg,wikidata,,Q67918,way
-Palmenstrasse,wikidata,,Q192190,way
-Parkweg,wikidata,,Q600792,way
-Passwangsteg,wikidata,,Q358710,way
-Passwangstrasse,wikidata,,Q358710,way
-Paulusgasse,wikidata,,Q686060,way
-Pelikanweglein,wikidata,,Q19413,way
-Peterskirchplatz,wikidata,,Q2079668,way
-Petersplatz,wikidata,,Q2079668,way
-Pfeffingerstrasse,wikidata,,Q2175376;Q66549,way
-Pfirtergasse,wikidata,,Q392059,way
-Pilatusstrasse,wikidata,,Q15265,way
-Prag-Strasse,wikidata,,Q1085,way
-Prattelerstrasse,wikidata,,Q64679,way
-Pruntrutermatte,wikidata,,Q68256,way
-Pruntruterstrasse,wikidata,,Q68256,way
-Ramsteinerstrasse,wikidata,,Q1231512,way
-Rastatterstrasse,wikidata,,Q6874,way
-Realpstrasse,wikidata,,Q67161,way
-Reichensteinerstrasse,wikidata,,Q683914,way
-Reinacherstrasse,wikidata,,Q69747,way
-Reusstrasse,wikidata,,Q4015,way
-Rheinfelderstrasse,wikidata,,Q269667,way
-Rheinschanze,wikidata,,Q584;Q391993,way
-Riehenring,wikidata,,Q5262,way
-Riehenstrasse,wikidata,,Q5262,way
-Riehenteichstrasse,wikidata,,Q15059351,way
-Rigistrasse,wikidata,,Q15291,way
-Rittergasse,wikidata,,Q29685214,way
-Rixheimerstrasse,wikidata,,Q148887,way
-Rodersdorferstrasse,wikidata,,Q66559,way
-Roggenburgstrasse,wikidata,,Q66806,way
-Röschenzerstrasse,wikidata,,Q66368,way
-Rotbergerstrasse,wikidata,,Q2168121,way
-Rufacherstrasse,wikidata,,Q149087,way
-Rümelinbachweg,wikidata,,Q1685785,way
-Rütlistrasse,wikidata,,Q688537,way
-Saint-Louis-Strasse,wikidata,,Q384516,way
-Sandgrubenstrasse,wikidata,,Q17038198,way
-Sandgrubenweglein,wikidata,,Q17038198,way
-Säntisstrasse,wikidata,,Q15224,way
-Sarnerstrasse,wikidata,,Q63964,way
-Schaffhauserrheinweg,wikidata,,Q9009,way
-Schalerstrasse,wikidata,,Q13142890,way
-Schanzenstrasse,wikidata,,Q391993,way
-Schauenburgerstrasse,wikidata,,Q2175365;Q2175187,way
-Scheltenstrasse,wikidata,,Q677605,way
-Scheltenweglein,wikidata,,Q677605,way
-Schlettstadterstrasse,wikidata,,Q22737,way
-Schliengerweg,wikidata,,Q62037,way
-Schöllenenstrasse,wikidata,,Q668632,way
-Schönenbuchstrasse,wikidata,,Q66508,way
-Schützengraben,wikidata,,Q391993,way
-Schwarzwaldallee,wikidata,,Q4204,way
-Schwarzwaldstrasse,wikidata,,Q4204,way
-Schweizergasse,wikidata,,Q39,relation+way
-Schwörstadterstrasse,wikidata,,Q62001,way
-Seltisbergerstrasse,wikidata,,Q66547,way
-Seltisbergerweglein,wikidata,,Q66547,way
-Sempacherstrasse,wikidata,,Q7151,way
-Sennheimerstrasse,wikidata,,Q274589,way
-Septerstrasse,wikidata,,Q473878;Q734220,way
-Sierenzerstrasse,wikidata,,Q635223,way
-Sissacherstrasse,wikidata,,Q66554,way
-Solothurnerstrasse,wikidata,,Q68965,way
-Sommergasse,wikidata,,Q1313,way
-Spalentorweg,wikidata,,Q667144,way
-Spiegelbergstrasse,wikidata,,Q99373127,way
-"St. Alban-Anlage",wikidata,,Q1776060,way
-"St. Alban-Berg",wikidata,,Q1776060,way
-"St. Alban-Graben",wikidata,,Q1776060;Q391993,way
-"St. Alban-Kirchrain",wikidata,,Q2315834,way
-"St. Alban-Rheinweg",wikidata,,Q1776060;Q584,way
-"St. Alban-Tal",wikidata,,Q1776060,way
-"St. Alban-Talstrasse",wikidata,,Q1776060,way
-"St. Alban-Vorstadt",wikidata,,Q1776060,way
-"St. Galler-Ring",wikidata,,Q25607,way
-"St. Jakob-Strasse",wikidata,,Q762914,way
-"St. Jakobs-Strasse",wikidata,,Q762914,way
-"St. Johanns-Parkweg",wikidata,,Q87922569,way
-"St. Johanns-Platz",wikidata,,Q187549,way
-Stapfelberg,wikidata,,Q12511,way
-Starenstrasse,wikidata,,Q185237,way
-Starenweglein,wikidata,,Q185237,way
-Sternenbergerstrasse,wikidata,,Q2175444,way
-Strassburgerallee,wikidata,,Q6602,way
-Sulzerstrasse,wikidata,,Q501798,way
-Sundgauerstrasse,wikidata,,Q108564999,way
-Sustenstrasse,wikidata,,Q666086,way
-Tellplatz,wikidata,,Q30908,way
-Tellstrasse,wikidata,,Q30908,way
-Tessinstrasse,wikidata,,Q12724,way
-Theodorsgraben,wikidata,,Q9319105,way
-Theodorsgraben-Anlage,wikidata,,Q9319105;Q391993,way
-Theodorskirchplatz,wikidata,,Q9319105,way
-Therwilerstrasse,wikidata,,Q66595,relation+way
-Thiersteinerallee,wikidata,,Q1157516,way
-Thiersteinerrain,wikidata,,Q1157516,way
-Thiersteinersteg,wikidata,,Q1157516;Q1015229;Q1013243,way
-Thiersteinerweglein,wikidata,,Q1157516,way
-Tödistrasse,wikidata,,Q15134,way
-Türkheimerstrasse,wikidata,,Q157729,way
-Turnerstrasse,wikidata,,Q1302645,way
-Vogesenplatz,wikidata,,Q187843,way
-Vogesenstrasse,wikidata,,Q187843,way
-Volkensbergerstrasse,wikidata,,Q466661,way
-Waldeckstrasse,wikidata,,Q30739992,way
-Waldenburgerstrasse,wikidata,,Q67092,way
-Waldighoferstrasse,wikidata,,Q587939,way
-Walkeweg,wikidata,,Q1585730,way
-Wanderstrasse,wikidata,,Q1762646,way
-Wasgenring,wikidata,,Q187843,way
-Wasserstrasse,wikidata,,Q373609,way
-Weissensteinstrasse,wikidata,,Q670257,way
-Wielandplatz,wikidata,,Q99369618,way
-Wiesendamm,wikidata,,Q666946,way
-Wiesendamm-Promenade,wikidata,,Q666946,way
-Wiesenkreisel,wikidata,,Q666946,way
-Wiesenplatz,wikidata,,Q666946,way
-Wiesenstrasse,wikidata,,Q666946,way
-"Wild Ma-Gässli",wikidata,,Q1071580,way
-Wildensteinerstrasse,wikidata,,Q683552,way
-Wintergasse,wikidata,,Q1311,way
-Wyhlenweglein,wikidata,,Q47520102,way
-Zeglingerweg,wikidata,,Q65343,way
-"Zum Hilsenstein",wikidata,,Q1505312,way
-"Zur Gempenfluh",wikidata,,Q66542,way
-Zürcherstrasse,wikidata,,Q72,way
+Ackermätteli,,,,way
 Ackerstrasse,,,,way
-Adlerstrasse,,,,way
 Aeschen-Passage,,,,way
 Aeschenplatz,,,,way
 Allmendstrasse,,,,way
@@ -381,7 +15,6 @@ Andlauerstrasse,,,,way
 Arabienstrasse,,,,way
 Auberg,,,,way
 "Auf dem Hummel",,,,way
-"Auf dem Wolf",,,,way
 "Auf der Alp",,,,way
 "Auf der Lyss",,,,way
 "Ausfahrt Grosspeter",,,,way
@@ -393,11 +26,10 @@ Austrasse,,,,way
 "Avenue de Bâle",,,,relation
 Bachlettenstrasse,,,,way
 Backstubenweg,,,,way
+"Bad. Bahnhof-Passage",,,,way
 Badenstrasse,,,,way
-Badenweilerstrasse,,,,way
 Bändelgasse,,,,way
 Bannwartweg,,,,way
-Bärenfelserstrasse,,,,way
 Barfüssergasse,,,,way
 Barfüsserplatz,,,,way
 "Basel Badischer Bahnhof",,,,way
@@ -408,7 +40,6 @@ Basel-Wettstein,,,,way
 Batterieanlage,,,,way
 Baumgartenweg,,,,way
 Bäumleingasse,,,,way
-Bäumlihofstrasse,,,,way
 Beatengasse,,,,way
 Beckenstrasse,,,,way
 Beckenweg,,,,way
@@ -418,15 +49,11 @@ Beckenweg,,,,way
 Belchenstrasse,,,,relation
 Bellingerweg,,,,way
 Benkenpark,,,,way
-Bernoullistrasse,,,,way
 Bettenstrasse,,,,way
 Beuggenweglein,,,,way
-Binzenstrasse,,,,way
-Birseckstrasse,,,,way
 Birseckweglein,,,,way
 Birsig-Parkplatz,,,,way
 Birssteg,,,,way
-Bläsiring,,,,way
 Bleichestrasse,,,,way
 Blochmonterstrasse,,,,way
 Blumenrain,,,,way
@@ -447,8 +74,6 @@ Bürenfluhweglein,,,,way
 Burgweg,,,,way
 Casinostrasse,,,,way
 Centralbahnplatz,,,,way
-Chrischonastrasse,,,,way
-Chrischonaweglein,,,,way
 Claramattweg,,,,way
 "Claraspital Park",,,,way
 Clarastrasse,,,,way
@@ -461,10 +86,6 @@ Dorfstrasse,,,,way
 Drahtzugstrasse,,,,way
 Dreihäusernweglein,,,,way
 Dreirosenanlage,,,,way
-Dreirosenstrasse,,,,way
-Efringerstrasse,,,,way
-Egliseestrasse,,,,way
-Egliseeweglein,,,,way
 Eimeldingerweg,,,,way
 "Einfahrt Wolf",,,,way
 Eisengasse,,,,way
@@ -474,6 +95,7 @@ Elisabethen-Passage,,,,way
 Elisabethenanlage,,,,way
 Elisabethenstrasse,,,,way
 Elsternweg,,,,way
+"Emil Frey-Strasse",,,,way
 Engelgasse,,,,way
 Entenweidstrasse,,,,way
 Erikastrasse,,,,way
@@ -487,13 +109,11 @@ Erlenstrasse,,,,way
 Erlkönigweg,,,,way
 Fahnengässlein,,,,way
 Färberstrasse,,,,way
-Fasnachtsgasse,,,,way
 Feierabendstrasse,,,,way
 Felsplattenstrasse,,,,way
 Finnenbahn,,,,way
 Fischerweg,,,,way
 Fischmarkt,,,,way
-Flachsländerstrasse,,,,way
 Flamingosteg,,,,way
 Florastrasse,,,,way
 Flurweg,,,,way
@@ -505,17 +125,15 @@ Friedmattweglein,,,,way
 Fringelistrasse,,,,way
 Fringeliweglein,,,,way
 Galgenhügel-Promenade,,,,way
-"Garten Sandgrube",,,,way
+"Garten zur Sandgrube",,,,way
 Gartenstrasse,,,,way
 Gärtnerstrasse,,,,way
 Gasstrasse,,,,way
 Gellertpark,,,,way
 Gellertstrasse,,,,way
 Gempenfluhweglein,,,,way
-Gemsberg,,,,way
 Gerbergasse,,,,way
 Gerbergässlein,,,,way
-Giebenacherweg,,,,way
 Giessliweg,,,,way
 Glockengasse,,,,way
 Goldbachweg,,,,way
@@ -528,7 +146,6 @@ Grosspeterstrasse,,,,way
 Grünpfahlgasse,,,,way
 "Gundeli Park",,,,way
 Güterstrasse,,,,way
-Hafenstrasse,,,,way
 Hagenbachstrasse,,,,way
 Haltingerstrasse,,,,way
 Hammerstrasse,,,,way
@@ -539,6 +156,7 @@ Hasenberg,,,,way
 Hauptstrasse,,,,way
 Hechtliacker,,,,way
 Hegenheimermattweg,,,,way
+Hegenheimstrasse,,,,way
 Herbergsgasse,,,,way
 Herrengrabenweg,,,,way
 Herrenweg,,,,way
@@ -556,10 +174,7 @@ Hirzbrunnenallee,,,,way
 Hirzbrunnenschanze,,,,way
 Hirzbrunnenstrasse,,,,way
 Hochbergerpark,,,,way
-Hochbergerplatz,,,,way
-Hochbergerstrasse,,,,way
 Hochstrasse,,,,way
-Hochwaldstrasse,,,,way
 Hofweglein,,,,way
 Höhenweg,,,,way
 Holderstrasse,,,,way
@@ -589,7 +204,6 @@ Hutgasse,,,,way
 "Im Zimmerhof",,,,relation
 "Im langen Loh",,,,way
 "Im tiefen Boden",,,,way
-Imbergässlein,,,,way
 "In den Klostermatten",,,,way
 "In den Klosterreben",,,,way
 "In den Schorenmatten",,,,way
@@ -613,15 +227,11 @@ Kannenfeldweglein,,,,way
 Kanonengasse,,,,way
 Kapellenstrasse,,,,way
 Kartausgasse,,,,way
-Kasernenhof,,,,way
 Kasernenstrasse,,,,way
 Kastelstrasse,,,,way
 Kaufhausgasse,,,,way
 Kellergässlein,,,,way
 Kirschblütenweg,,,,way
-Kirschgartenstrasse,,,,way
-Kleinhüningeranlage,,,,way
-Kleinhüningerstrasse,,,,way
 Kleinriehenstrasse,,,,way
 Klingelbergstrasse,,,,way
 Klingental,,,,way
@@ -630,8 +240,6 @@ Klingentalstrasse,,,,way
 Klingentalweglein,,,,way
 Klosterberg,,,,way
 Kluserstrasse,,,,way
-Klybeckstrasse,,,,way
-Kohlenberg,,,,way
 Kohlenberggasse,,,,way
 Kohlenstrasse,,,,way
 Konzertgasse,,,,way
@@ -652,7 +260,6 @@ Lautengartenstrasse,,,,way
 Lehenmattstrasse,,,,way
 Leimgrubenweg,,,,way
 Lenzgasse,,,,way
-Leohardskirchplatz,,,,way
 Leonhardsberg,,,,way
 Leonhardsgraben,,,,way
 Leonhardskirchplatz,,,,way
@@ -669,9 +276,6 @@ Luftmattstrasse,,,,way
 Luzernerring-Tunnel,,,,way
 Lysbüchelplatz,,,,way
 Lysbüchelstrasse,,,,way
-Magdenstrasse,,,,way
-Magnolienpark,,,,way
-Maispracherweg,,,,way
 Margarethenbrücke,,,,way
 Margarethenpark,,,,way
 Markgräflerstrasse,,,,way
@@ -683,19 +287,15 @@ Mauerstrasse,,,,way
 Maulbeerstrasse,,,,way
 Meisengasse,,,,way
 Merkurstrasse,,,,way
-Messeplatz,,,,way
 Mischtwaegli,,,,way
-"Mittlere Brücke",,,,way
+Mischtwägli,,,,way
+"Mittlere Rheinbrücke",,,,way
 "Mittlere Strasse",,,,way
-Mörsbergerstrasse,,,,way
 Mostackerstrasse,,,,way
 Mühlegraben,,,,way
-Mühlemattweg,,,,way
 Mühlenberg,,,,way
-Müllheimerstrasse,,,,way
 Münchensteinerbrücke,,,,way
 Münsterberg,,,,way
-Münsterplatz,,,,relation+way
 Münzgasse,,,,way
 Muttenzerweg,,,,way
 Nachtigallenwäldeli,,,,way
@@ -715,7 +315,6 @@ Nonnenweg,,,,way
 Oberwilerstrasse,,,,relation
 Ochsengasse,,,,way
 Oekolampadpark,,,,way
-Offenburgerstrasse,,,,way
 Olsbergerweg,,,,way
 Otterbachweg,,,,way
 Paradieshofstrasse,,,,way
@@ -725,7 +324,6 @@ Petersgasse,,,,way
 Petersgraben,,,,way
 Pfalz,,,,way
 Pfarrgasse,,,,way
-Pfeffergässlein,,,,way
 Pfluggässlein,,,,way
 Pilgerstrasse,,,,way
 Pirolweg,,,,way
@@ -745,7 +343,6 @@ Rappenbodenweg,,,,way
 Rappoltshof,,,,way
 Rebgasse,,,,way
 Rebweg,,,,way
-Rehhagstrasse,,,,way
 Reiterstrasse,,,,way
 Rennweg,,,,way
 Reservoirstrasse,,,,way
@@ -767,21 +364,16 @@ Rosenfeldpark,,,,way
 Rosengartenweg,,,,way
 Rosentalanlage,,,,way
 Rosentalstrasse,,,,way
-Rosshofgasse,,,,way
 Röttelerstrasse,,,,way
 "Route Douanière",,,,way
 Rüdengasse,,,,way
 Rudolfstrasse,,,,relation
-Rührbergerstrasse,,,,way
-Rümelins-Passage,,,,way
 Rümelinsplatz,,,,way
 Rümmingerstrasse,,,,way
 Säckingerstrasse,,,,way
 Sägebergweglein,,,,way
 Sägergässlein,,,,way
-Salinenstrasse,,,,way
 Salk,,,,way
-Salmenweg,,,,way
 Sandweg,,,,way
 Sängergasse,,,,way
 Sattelgasse,,,,way
@@ -826,15 +418,12 @@ Sperrstrasse,,,,way
 Spiegelgasse,,,,way
 Spiegelhof,,,,way
 Spitalgarten,,,,way
-Spitalstrasse,,,,way
-"St. Alban-Ring",,,,way
 "St. Alban-Tor Park",,,,way
 "St. Albanteich-Promenade",,,,way
 "St. Johanns-Hafen-Weg",,,,way
 "St. Johanns-Park",,,,way
 "St. Johanns-Rheinweg",,,,way
 "St. Johanns-Ring",,,,way
-"St. Johanns-Vorstadt",,,,way
 St.Johanns-Platz,,,,way
 Stachelrain,,,,way
 Stadionstrasse,,,,way
@@ -878,7 +467,6 @@ Tramweglein,,,,way
 "Treppe Euler",,,,way
 Trillengässlein,,,,way
 "Trudi Gerster-Anlage",,,,way
-Tüllingerstrasse,,,,way
 Ueli-Gässli,,,,way
 Uferstrasse,,,,way
 Ulmenweglein,,,,way
@@ -887,9 +475,7 @@ Ulmenweglein,,,,way
 "Untere Rheingasse",,,,way
 "Unterer Batterieweg",,,,way
 "Unterer Heuberg",,,,way
-"Unterer Rheinweg",,,,way
 Utengasse,,,,way
-Verkehrsgarten,,,,way
 "Verkehrsgarten Basel-Stadt",,,,way
 Viaduktstrasse,,,,way
 Viertelkreis,,,,way
@@ -898,7 +484,6 @@ Vogelsangstrasse,,,,way
 Vogelsangweglein,,,,way
 Waldshuterstrasse,,,,way
 Wallstrasse,,,,way
-Wartenbergstrasse,,,,way
 Wasensträsschen,,,,way
 Wasserturm-Promenade,,,,way
 Webergasse,,,,way
@@ -910,11 +495,9 @@ Weinlagerstrasse,,,,way
 "Weisse Gasse",,,,way
 Welschmattstrasse,,,,way
 Westquaistrasse,,,,way
-"Wibrandis Rosenblatt-Weg",,,,way
 Wiesenschanzweg,,,,way
 Wildschutzweg,,,,way
 "Wilhelm Denz-Strasse",,,,way
-Wintersingerweg,,,,way
 Wintersingerweglein,,,,way
 Wittlingerstrasse,,,,way
 Wittlingerweglein,,,,way
@@ -922,10 +505,9 @@ Wolfschlucht-Promenade,,,,way
 Wolfschluchtweglein,,,,way
 Wollbacherstrasse,,,,way
 Zähringerstrasse,,,,way
-Zeughausstrasse,,,,way
 Ziegelstrasse,,,,way
+Zollstraße,,,,way
 "Zu den drei Linden",,,,way
-"Zugang Sandgrube Süd",,,,way
 "Zum Bischofstein",,,,way
 Zwölfjuchartenweglein,,,,way
 "am Bächli",,,,way

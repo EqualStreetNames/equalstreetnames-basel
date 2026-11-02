@@ -1,12 +1,431 @@
 name,source,gender,wikidata,type
+Adlerstrasse,wikidata,-,Q141696309,way
+Aeschengraben,wikidata,-,Q391993,way
+Aeschenvorstadt,wikidata,-,Q381839,way
+Aescherstrasse,wikidata,-,Q68367,way
+Ahornstrasse,wikidata,-,Q42292,way
+Airolostrasse,wikidata,-,Q69265,way
+Airoloweglein,wikidata,-,Q69265,way
+Akazienweg,wikidata,-,Q81666,way
+Alemannengasse,wikidata,-,Q132990,way
+Allschwilerplatz,wikidata,-,Q64727,way
+Allschwilerstrasse,wikidata,-,Q64727,relation+way
+Altkircherstrasse,wikidata,-,Q208119,way
+Amselstrasse,wikidata,-,Q25234,way
+Angensteinerstrasse,wikidata,-,Q537748,way
+Antilopenweg,wikidata,-,Q25894,way
+Anwilerstrasse,wikidata,-,Q66803,way
+Appenzellerstrasse,wikidata,-,Q209270,way
+Arbedostrasse,wikidata,-,Q626957,way
+Archivgässlein,wikidata,-,Q2324698,way
+Arlesheimerstrasse,wikidata,-,Q581647,way
+Asconastrasse,wikidata,-,Q63992,way
+"Auf dem Wolf",wikidata,-,Q1499910,way
+Augsterweg,wikidata,-,Q66515,way
+Augustinergasse,wikidata,-,Q29075,way
+"Bachgraben Promenade",wikidata,-,Q90128597,way
+Badenweilerstrasse,wikidata,-,Q25430,way
+Badweglein,wikidata,-,Q124217518,way
+Baldeggerstrasse,wikidata,-,Q115685847,way
+Bärenfelserstrasse,wikidata,-,Q1019100,way
+Bärschwilerstrasse,wikidata,-,Q66716,way
+Bartenheimerstrasse,wikidata,-,Q320293,way
+Baslerstrasse,wikidata,-,Q78,way
+Bättwilerstrasse,wikidata,-,Q70027,way
+Bauhinweglein,wikidata,-,Q746706,way
+Bäumlihofstrasse,wikidata,-,Q1019311,way
+Bechburgerstrasse,wikidata,-,Q1552127,way
+Bedrettostrasse,wikidata,-,Q67035,way
+"Beim Letziturm",wikidata,-,Q1821268,way
+"Beim Wasserturm",wikidata,-,Q1302826,way
+"Beim Wettsteinhäuschen",wikidata,-,Q20617580,way
+Beinwilerstrasse,wikidata,-,Q65391,way
+Belforterstrasse,wikidata,-,Q171545,way
+Bellinzonastrasse,wikidata,-,Q64044,way
+Bellinzonaweglein,wikidata,-,Q64044,way
+Benkenstrasse,wikidata,-,Q15787681,way
+Bergalingerstrasse,wikidata,-,Q21269430,way
+Bernerring,wikidata,-,Q70,way
+Beuggenstrasse,wikidata,-,Q315097,way
+Biascastrasse,wikidata,-,Q67523,way
+Binningerstrasse,wikidata,-,Q69621,way
+Binzenstrasse,wikidata,-,Q62034,way
+Birkenstrasse,wikidata,-,Q25243,way
+Birseckstrasse,wikidata,-,Q686543,way
+Birsfelderstrasse,wikidata,-,Q64665,way
+Birsigstrasse,wikidata,-,Q572072,way
+Birskopfweglein,wikidata,-,Q865869,way
+Birsstrasse,wikidata,-,Q14340,way
+Bläsianlage,wikidata,-,Q532367,way
+Bläsiring,wikidata,-,Q532367,way
+Blauensteinerstrasse,wikidata,-,Q15213175,way
+Blauenstrasse,wikidata,-,Q882567,way
+Blotzheimerstrasse,wikidata,-,Q467351,way
+Blotzheimerweg,wikidata,-,Q467351,way
+Bollweilerstrasse,wikidata,-,Q326352,way
+Bonfolstrasse,wikidata,-,Q67993,way
+Bordeaux-Strasse,wikidata,-,Q1479,way
+Breisacherstrasse,wikidata,-,Q489911,way
+Bristenweg,wikidata,-,Q55283533,way
+Bruderholzallee,wikidata,-,Q255746,way
+Bruderholzrain,wikidata,-,Q255746,way
+Bruderholzstrasse,wikidata,-,Q255746,way
+Bruderholzweg,wikidata,-,Q255746,way
+Brüglingerstrasse,wikidata,-,Q996890,way
+Buchenstrasse,wikidata,-,Q59779138,way
+Bündnerstrasse,wikidata,-,Q11925,way
+Burgfelderstrasse,wikidata,-,Q895219,way
+Burgunderstrasse,wikidata,-,Q1173,way
+Buschweilerweg,wikidata,-,Q367141,way
+Buschwillerweglein,wikidata,-,Q367141,way
+Byfangweg,wikidata,-,Q858239,way
+Centralbahn-Passage,wikidata,-,Q667201,way
+Centralbahnstrasse,wikidata,-,Q667201,way
+Chrischonastrasse,wikidata,-,Q15240,way
+Chrischonaweglein,wikidata,-,Q15240,way
+Claragraben,wikidata,-,Q1297194,way
+Clarahofweg,wikidata,-,Q1297194,way
+Claramatte,wikidata,-,Q1297194,way
+Claraplatz,wikidata,-,Q20615923,way
+Colmarerstrasse,wikidata,-,Q130994,way
+Dachsfelderstrasse,wikidata,-,Q67203,way
+Dammerkirchstrasse,wikidata,-,Q382438,way
+Delsbergerallee,wikidata,-,Q63896,way
+Dittingerstrasse,wikidata,-,Q66590,way
+Dorenbach-Promenade,wikidata,-,Q1243893,way
+Dorenbachviadukt,wikidata,-,Q1243893,way
+Dornacherstrasse,wikidata,-,Q64694,way
+Dreikönig-Weglein,wikidata,-,Q678997,way
+Dreirosenstrasse,wikidata,-,Q687157,way
+Drosselstrasse,wikidata,-,Q115661,way
+Duggingerhof,wikidata,-,Q66736,way
+Efringerstrasse,wikidata,-,Q126903190,way
+Eggfluhstrasse,wikidata,-,Q1297653,way
+Egliseestrasse,wikidata,-,Q20825990,way
+Egliseeweglein,wikidata,-,Q20825990,way
+Eichenstrasse,wikidata,-,Q12004,way
+Eichhornstrasse,wikidata,-,Q4388,way
+Eichhornweglein,wikidata,-,Q4388,way
+Eidgenossenweg,wikidata,-,Q124216,way
+Eisenbahnweg,wikidata,-,Q119161,way
+Elsässerrheinweg,wikidata,-,Q1142,way
+Elsässerstrasse,wikidata,-,Q1142,way
+Ensisheimerstrasse,wikidata,-,Q455645,way
+Eptingerstrasse,wikidata,-,Q64715,way
+Erdbeergraben,wikidata,-,Q745;Q2048319,way
+Erstfeldstrasse,wikidata,-,Q69642,way
+Faidostrasse,wikidata,-,Q69673,way
+Falkensteineranlage,wikidata,-,Q1010707;Q1157640,way
+Falkensteinerstrasse,wikidata,-,Q1010707;Q1157640,way
+Farnsburgerstrasse,wikidata,-,Q359967,way
+Fasanenstrasse,wikidata,-,Q25432,way
+Fäschengasse,wikidata,-,Q978317,way
+Fäschenweglein,wikidata,-,Q978317,way
+Fasnachtsgasse,wikidata,-,Q35281,way
+Feldbergstrasse,wikidata,-,Q533871;Q316401,way
+Flachsländerstrasse,wikidata,-,Q26878001,way
+Flughafenstrasse,wikidata,-,Q156971,way
+Föhrenstrasse,wikidata,-,Q12024,way
+Forellenweg,wikidata,-,Q2258881,way
+Frankfurt-Strasse,wikidata,-,Q1794,way
+Freiburgersteg,wikidata,-,Q2833,way
+Freiburgerstrasse,wikidata,-,Q2833,way
+Friedensgasse,wikidata,-,Q158021,way
+Friedlingerstrasse,wikidata,-,Q105847639,way
+Froburgstrasse,wikidata,-,Q339236,way
+Fröschgasse,wikidata,-,Q13142604,way
+Furkastrasse,wikidata,-,Q666628,way
+Fürstensteinerstrasse,wikidata,-,Q2175269,way
+Gempenstrasse,wikidata,-,Q66542,way
+Gemsberg,wikidata,-,Q131340,way
+Giebenacherweg,wikidata,-,Q66741,way
+Gilgenbergerstrasse,wikidata,-,Q2175270,way
+Giornico-Promenade,wikidata,-,Q67763,way
+Giornicostrasse,wikidata,-,Q67763,way
+Glaserbergstrasse,wikidata,-,Q1529410,way
+Göschenenstrasse,wikidata,-,Q69639,way
+Gotthardstrasse,wikidata,-,Q25233,way
+Grellingerstrasse,wikidata,-,Q66821,way
+Grenzacher-Promenade,wikidata,-,Q47520101,way
+Grenzacherstrasse,wikidata,-,Q62005;Q47520101,way
+Grenzstrasse,wikidata,-,Q1991810,way
+Grimselstrasse,wikidata,-,Q666668,way
+Grimselweglein,wikidata,-,Q666668,way
+Gundeldingerrain,wikidata,-,Q19362831,way
+Gundeldingerstrasse,wikidata,-,Q809905,way
+Gundeli-Passerelle,wikidata,-,Q809905,way
+Habsburgerstrasse,wikidata,-,Q65968,way
+Hafenstrasse,wikidata,-,Q1326948,way
+Hagenaustrasse,wikidata,-,Q22730,way
+Hagentalerstrasse,wikidata,-,Q317134;Q325102,way
+Hamburg-Strasse,wikidata,-,Q1055,way
+Hasenmattstrasse,wikidata,-,Q15230,way
+Hasenmattweglein,wikidata,-,Q15230,way
+Häsingerstrasse,wikidata,-,Q466682,way
+Hauensteinstrasse,wikidata,-,Q119225144,way
+Hechtweg,wikidata,-,Q165278,way
+Hegenheimerstrasse,wikidata,-,Q333540,way
+Helfenbergstrasse,wikidata,-,Q22614101,way
+Helvetiaplatz,wikidata,-,Q15317,way
+Herbstgasse,wikidata,-,Q1314,way
+Hersbergerweg,wikidata,-,Q66572,way
+Hochbergerplatz,wikidata,-,Q99368426,way
+Hochbergerstrasse,wikidata,-,Q885079;Q99368426,way
+Hochwaldstrasse,wikidata,-,Q66575,way
+Hofstetterstrasse,wikidata,-,Q70010,way
+"Hohe Winde-Strasse",wikidata,-,Q1623566,way
+Hölleweglein,wikidata,-,Q476352,way
+Homburgerstrasse,wikidata,-,Q67205,way
+Hüningerstrasse,wikidata,-,Q83415,way
+"Im Ettingerhof",wikidata,-,Q70012,way
+"Im Margarethenletten",wikidata,-,Q16266354,way
+"Im Margarethental",wikidata,-,Q16266354,way
+"Im Witterswilerhof",wikidata,-,Q70059,way
+Imbergässlein,wikidata,-,Q15046077;Q35625,way
+Immengasse,wikidata,-,Q102857,way
+Isteinerstrasse,wikidata,-,Q1674838,way
+Jurastrasse,wikidata,-,Q178611,way
+Kahlstrasse,wikidata,-,Q1060143,way
+Kaltbrunnen-Promenade,wikidata,-,Q18413097,way
+Kaltbrunnenstrasse,wikidata,-,Q18413097,way
+Kandererstrasse,wikidata,-,Q61661,way
+Karpfenweg,wikidata,-,Q81110,way
+Kasernenhof,wikidata,-,Q1726074,way
+Kastanienweg,wikidata,-,Q129324,way
+Kaysersbergerstrasse,wikidata,-,Q83485,way
+Keltentreppe,wikidata,-,Q35966,way
+Kembserweg,wikidata,-,Q83482,way
+Kienbergstrasse,wikidata,-,Q64533,way
+Kirchgasse,wikidata,-,Q9319105,way
+Kirschgartenstrasse,wikidata,-,Q1590942,way
+Kleinhüningeranlage,wikidata,-,Q809908,way
+Kleinhüningerstrasse,wikidata,-,Q809908,way
+Klingnaustrasse,wikidata,-,Q67135,way
+Klybeckstrasse,wikidata,-,Q809909,way
+Knöringerstrasse,wikidata,-,Q123013,way
+Kohlenberg,wikidata,-,Q644034,way
+Krachenrain,wikidata,-,Q150784,way
+Krachenrainweglein,wikidata,-,Q150784,way
+Krakaustrasse,wikidata,-,Q31487,way
+Landskronstrasse,wikidata,-,Q992215,way
+Largitzenstrasse,wikidata,-,Q123155,way
+Laufenstrasse,wikidata,-,Q68363,way
+Laupenring,wikidata,-,Q67112;Q667606,way
+Leimenstrasse,wikidata,-,Q124258,way
+Leonhardsstrasse,wikidata,-,Q1819333,way
+Lerchenstrasse,wikidata,-,Q29858,way
+Letziplatz,wikidata,-,Q2390720,way
+Liesbergermatte,wikidata,-,Q67265,way
+Liesbergerstrasse,wikidata,-,Q67265,way
+Liestaleranlage,wikidata,-,Q68972,way
+Lothringerplatz,wikidata,-,Q1137,way
+Lothringerstrasse,wikidata,-,Q1137,way
+Löwenbergstrasse,wikidata,-,Q29785472,way
+Löwenbergweglein,wikidata,-,Q29785472,way
+Luftgässlein,wikidata,-,Q20615438,way
+Lützelstrasse,wikidata,-,Q1880486,way
+Luzernerring,wikidata,-,Q4191,way
+Lyon-Strasse,wikidata,-,Q456,way
+Magdenstrasse,wikidata,-,Q66567,way
+Magnolienpark,wikidata,-,Q157017,way
+Maiengasse,wikidata,-,Q1187930,way
+Maispracherweg,wikidata,-,Q66323,way
+Malzgasse,wikidata,-,Q58190533,way
+Margarethenstich,wikidata,-,Q16266354,way
+Margarethenstrasse,wikidata,-,Q16266354,way
+Mariasteinstrasse,wikidata,-,Q70025,way
+Marignanostrasse,wikidata,-,Q42932,way
+Markircherstrasse,wikidata,-,Q500400,way
+Marschalkenstrasse,wikidata,-,Q13142776,way
+Martinsgasse,wikidata,-,Q1555900,way
+Martinsgässlein,wikidata,-,Q1555900,way
+Martinskirchplatz,wikidata,-,Q1555900,way
+Mattenstrasse,wikidata,-,Q30121,way
+Meltingerstrasse,wikidata,-,Q66357,way
+Messeplatz,wikidata,-,Q137702087,way
+Metzerstrasse,wikidata,-,Q22690,way
+Michelbacherstrasse,wikidata,-,Q148054;Q148071,way
+Missionsstrasse,wikidata,-,Q355684,way
+Mönchsbergerstrasse,wikidata,-,Q2175360,way
+Morgartenring,wikidata,-,Q20826973;Q326989,way
+Mörsbergerstrasse,wikidata,-,Q99369895;Q947416,way
+Muespacherstrasse,wikidata,-,Q149329,way
+Mülhauserstrasse,wikidata,-,Q79815,way
+Mülhauserweglein,wikidata,-,Q79815,way
+Müllheimerstrasse,wikidata,-,Q505468,way
+Münchensteinerstrasse,wikidata,-,Q69030,way
+Münsterplatz,wikidata,-,Q666479,relation+way
+Murbacherstrasse,wikidata,-,Q148815,way
+Murtengasse,wikidata,-,Q68283;Q688502,way
+Mythenstrasse,wikidata,-,Q16517,way
+Näfelserstrasse,wikidata,-,Q182806;Q667460,way
+Nagelfluhweglein,wikidata,-,Q191704,way
+Nasenweg,wikidata,-,Q654583,way
+Nenzlingerstrasse,wikidata,-,Q66401,way
+Neudorfstrasse,wikidata,-,Q122332,way
+Neuensteinerstrasse,wikidata,-,Q29681929,way
+Neuweilerplatz,wikidata,-,Q149827,way
+Neuweilerstrasse,wikidata,-,Q149827,way
+Nidwaldnerstrasse,wikidata,-,Q12592,way
+Novarastrasse,wikidata,-,Q6046,way
+Nufenenstrasse,wikidata,-,Q570647,way
+Oberalpstrasse,wikidata,-,Q661013,way
+Obwaldnerstrasse,wikidata,-,Q12573,way
+Oetlingerstrasse,wikidata,-,Q307414,way
+Offenburgerstrasse,wikidata,-,Q4044,way
+Oltingerstrasse,wikidata,-,Q147882,way
+Ormalingerweg,wikidata,-,Q67918,way
+Palmenstrasse,wikidata,-,Q192190,way
+Parkweg,wikidata,-,Q600792,way
+Passwangsteg,wikidata,-,Q358710,way
+Passwangstrasse,wikidata,-,Q358710,way
+Paulusgasse,wikidata,-,Q686060,way
+Pelikanweglein,wikidata,-,Q19413,way
+Peterskirchplatz,wikidata,-,Q2079668,way
+Petersplatz,wikidata,-,Q2079668,way
+Pfeffergässlein,wikidata,-,Q3143131,way
+Pfeffingerstrasse,wikidata,-,Q2175376;Q66549,way
+Pfirtergasse,wikidata,-,Q392059,way
+Pilatusstrasse,wikidata,-,Q15265,way
+Prag-Strasse,wikidata,-,Q1085,way
+Prattelerstrasse,wikidata,-,Q64679,way
+Pruntrutermatte,wikidata,-,Q68256,way
+Pruntruterstrasse,wikidata,-,Q68256,way
+Ramsteinerstrasse,wikidata,-,Q1231512,way
+Rastatterstrasse,wikidata,-,Q6874,way
+Realpstrasse,wikidata,-,Q67161,way
+Rehhagstrasse,wikidata,-,Q108205300,way
+Reichensteinerstrasse,wikidata,-,Q683914,way
+Reinacherstrasse,wikidata,-,Q69747,way
+Reusstrasse,wikidata,-,Q4015,way
+Rheinfelderstrasse,wikidata,-,Q269667,way
+Rheinschanze,wikidata,-,Q584;Q391993,way
+Riehenring,wikidata,-,Q5262,way
+Riehenstrasse,wikidata,-,Q5262,way
+Riehenteichstrasse,wikidata,-,Q15059351,way
+Rigistrasse,wikidata,-,Q15291,way
+Rittergasse,wikidata,-,Q29685214,way
+Rixheimerstrasse,wikidata,-,Q148887,way
+Rodersdorferstrasse,wikidata,-,Q66559,way
+Roggenburgstrasse,wikidata,-,Q66806,way
+Röschenzerstrasse,wikidata,-,Q66368,way
+Rosshofgasse,wikidata,-,Q29685266,way
+Rotbergerstrasse,wikidata,-,Q2168121,way
+Rufacherstrasse,wikidata,-,Q149087,way
+Rührbergerstrasse,wikidata,-,Q1437895;Q31545264,way
+Rümelinbachweg,wikidata,-,Q1685785,way
+Rümelins-Passage,wikidata,-,Q108884902,way
+Rütlistrasse,wikidata,-,Q688537,way
+Saint-Louis-Strasse,wikidata,-,Q384516,way
+Salinenstrasse,wikidata,-,Q141221622,way
+Salmenweg,wikidata,-,Q188879,way
+Sandgrubenstrasse,wikidata,-,Q17038198,way
+Sandgrubenweglein,wikidata,-,Q17038198,way
+Säntisstrasse,wikidata,-,Q15224,way
+Sarnerstrasse,wikidata,-,Q63964,way
+Schaffhauserrheinweg,wikidata,-,Q9009,way
+Schalerstrasse,wikidata,-,Q13142890,way
+Schanzenstrasse,wikidata,-,Q391993,way
+Schauenburgerstrasse,wikidata,-,Q2175365;Q2175187,way
+Scheltenstrasse,wikidata,-,Q677605,way
+Scheltenweglein,wikidata,-,Q677605,way
+Schlettstadterstrasse,wikidata,-,Q22737,way
+Schliengerweg,wikidata,-,Q62037,way
+Schöllenenstrasse,wikidata,-,Q668632,way
+Schönenbuchstrasse,wikidata,-,Q66508,way
+Schützengraben,wikidata,-,Q391993,way
+Schwarzwaldallee,wikidata,-,Q4204,way
+Schwarzwaldstrasse,wikidata,-,Q4204,way
+Schweizergasse,wikidata,-,Q39,relation+way
+Schwörstadterstrasse,wikidata,-,Q62001,way
+Seltisbergerstrasse,wikidata,-,Q66547,way
+Seltisbergerweglein,wikidata,-,Q66547,way
+Sempacherstrasse,wikidata,-,Q7151,way
+Sennheimerstrasse,wikidata,-,Q274589,way
+Septerstrasse,wikidata,-,Q473878;Q734220,way
+Sierenzerstrasse,wikidata,-,Q635223,way
+Sissacherstrasse,wikidata,-,Q66554,way
+Solothurnerstrasse,wikidata,-,Q68965,way
+Sommergasse,wikidata,-,Q1313,way
+Spalentorweg,wikidata,-,Q667144,way
+Spiegelbergstrasse,wikidata,-,Q99373127,way
+Spitalstrasse,wikidata,-,Q1689257,way
+"St. Alban-Anlage",wikidata,-,Q1776060,way
+"St. Alban-Berg",wikidata,-,Q1776060,way
+"St. Alban-Graben",wikidata,-,Q1776060;Q391993,way
+"St. Alban-Kirchrain",wikidata,-,Q2315834,way
+"St. Alban-Rheinweg",wikidata,-,Q1776060;Q584,way
+"St. Alban-Ring",wikidata,-,Q1776060,way
+"St. Alban-Tal",wikidata,-,Q1776060,way
+"St. Alban-Talstrasse",wikidata,-,Q1776060,way
+"St. Alban-Vorstadt",wikidata,-,Q1776060,way
+"St. Galler-Ring",wikidata,-,Q25607,way
+"St. Jakob-Strasse",wikidata,-,Q762914,way
+"St. Jakobs-Strasse",wikidata,-,Q762914,way
+"St. Johanns-Parkweg",wikidata,-,Q87922569,way
+"St. Johanns-Platz",wikidata,-,Q187549,way
+"St. Johanns-Vorstadt",wikidata,-,Q809912,way
+Stapfelberg,wikidata,-,Q12511,way
+Starenstrasse,wikidata,-,Q185237,way
+Starenweglein,wikidata,-,Q185237,way
+Sternenbergerstrasse,wikidata,-,Q2175444,way
+Strassburgerallee,wikidata,-,Q6602,way
+Sulzerstrasse,wikidata,-,Q501798,way
+Sundgauerstrasse,wikidata,-,Q108564999,way
+Sustenstrasse,wikidata,-,Q666086,way
+Tellplatz,wikidata,-,Q30908,way
+Tellstrasse,wikidata,-,Q30908,way
+Tessinstrasse,wikidata,-,Q12724,way
+Theodorsgraben,wikidata,-,Q9319105,way
+Theodorsgraben-Anlage,wikidata,-,Q9319105;Q391993,way
+Theodorskirchplatz,wikidata,-,Q9319105,way
+Therwilerstrasse,wikidata,-,Q66595,relation+way
+Thiersteinerallee,wikidata,-,Q1157516,way
+Thiersteinerrain,wikidata,-,Q1157516,way
+Thiersteinersteg,wikidata,-,Q1157516;Q1015229;Q1013243,way
+Thiersteinerweglein,wikidata,-,Q1157516,way
+Tödistrasse,wikidata,-,Q15134,way
+Tüllingerstrasse,wikidata,-,Q2464358,way
+Türkheimerstrasse,wikidata,-,Q157729,way
+Turnerstrasse,wikidata,-,Q1302645,way
+"Unterer Rheinweg",wikidata,-,Q584,way
+Vogesenplatz,wikidata,-,Q187843,way
+Vogesenstrasse,wikidata,-,Q187843,way
+Volkensbergerstrasse,wikidata,-,Q466661,way
+Waldeckstrasse,wikidata,-,Q30739992,way
+Waldenburgerstrasse,wikidata,-,Q67092,way
+Waldighoferstrasse,wikidata,-,Q587939,way
+Walkeweg,wikidata,-,Q1585730,way
+Wanderstrasse,wikidata,-,Q1762646,way
+Wartenbergstrasse,wikidata,-,Q2549960,way
+Wasgenring,wikidata,-,Q187843,way
+Wasserstrasse,wikidata,-,Q373609,way
+Weissensteinstrasse,wikidata,-,Q670257,way
+Wielandplatz,wikidata,-,Q99369618,way
+Wiesendamm,wikidata,-,Q666946,way
+Wiesendamm-Promenade,wikidata,-,Q666946,way
+Wiesenkreisel,wikidata,-,Q666946,way
+Wiesenplatz,wikidata,-,Q666946,way
+Wiesenstrasse,wikidata,-,Q666946,way
+"Wild Ma-Gässli",wikidata,-,Q1071580,way
+Wildensteinerstrasse,wikidata,-,Q683552,way
+Wintergasse,wikidata,-,Q1311,way
+Wintersingerweg,wikidata,-,Q66111,way
+Wyhlenweglein,wikidata,-,Q47520102,way
+Zeglingerweg,wikidata,-,Q65343,way
+Zeughausstrasse,wikidata,-,Q23542690,way
+"Zum Hilsenstein",wikidata,-,Q1505312,way
+"Zur Gempenfluh",wikidata,-,Q66542,way
+Zürcherstrasse,wikidata,-,Q72,way
 "Anne Frank-Platz",wikidata,F,Q4583,way
 "Cécile Ines Loos-Anlage",wikidata,F,Q1150116,way
-"Irène Zurkinden-Platz",wikidata,F,Q1673322,relation+way
+"Irène Zurkinden-Platz",wikidata,F,Q1673322,relation
 "Julia Gauss-Strasse",wikidata,F,Q1711843,way
 "Maja Sacher-Platz",wikidata,F,Q1885994,way
 "Mathilde Paravicini-Strasse",wikidata,F,Q1908713,way
 "Meret Oppenheim-Platz",wikidata,F,Q61594,way
 "Meret Oppenheim-Strasse",wikidata,F,Q61594,way
+"Wibrandis Rosenblatt-Weg",wikidata,F,Q120460,way
 "Achilles Bischoff-Strasse",wikidata,M,Q15455792,way
 "Aeneas Silvius-Strasse",wikidata,M,Q101437,way
 "Albert Schweitzer-Strasse",wikidata,M,Q49325,way
@@ -15,6 +434,7 @@ Amerbachstrasse,wikidata,M,Q69342,way
 Andreasplatz,wikidata,M,Q43399,way
 "Arnold Böcklin-Strasse",wikidata,M,Q123071,way
 Bachofenstrasse,wikidata,M,Q123861,way
+Bernoullistrasse,wikidata,M,Q121991,way
 Birmannsgasse,wikidata,M,Q353437,way
 Bonergasse,wikidata,M,Q111621088,way
 Brantgasse,wikidata,M,Q60351,way
@@ -29,7 +449,7 @@ Dufourstrasse,wikidata,M,Q123238,way
 Edisonstrasse,wikidata,M,Q8743,way
 "Emanuel Büchel-Strasse",wikidata,M,Q117083,way
 Emanuel-Büchel-Strasse,wikidata,M,Q117083,way
-"Emil Angst-Strasse",wikidata,M,Q111628393,way
+"Emil Angst-Strasse",wikidata,M,Q111628393;Q132228598,way
 Erasmusplatz,wikidata,M,Q43499,way
 "Eugen Wullschleger-Strasse",wikidata,M,Q1372980,way
 Eulerstrasse,wikidata,M,Q7604,way
@@ -68,7 +488,7 @@ Jungstrasse,wikidata,M,Q2739430,way
 "Karl Jaspers-Allee",wikidata,M,Q76509,way
 Lachenalweglein,wikidata,M,Q21518266,way
 "Lukas Legrand-Strasse",wikidata,M,Q380041,way
-"Max Kämpf-Platz",wikidata,M,Q122519,relation
+"Max Kämpf-Platz",wikidata,M,Q122519,relation+way
 "Niklaus von Flüe-Strasse",wikidata,M,Q115550,way
 Oekolampadstrasse,wikidata,M,Q123450,way
 "Oscar Frey-Strasse",wikidata,M,Q1383856,way
@@ -81,7 +501,7 @@ Pestalozzistrasse,wikidata,M,Q105428,way
 "Peter Rot-Strasse",wikidata,M,Q17579891,way
 Peter-Rot-Strasse,wikidata,M,Q17579891,way
 Pfeffelstrasse,wikidata,M,Q77742,way
-Picassoplatz,wikidata,M,Q5593,way
+Picassoplatz,wikidata,M,Q5593,relation+way
 Redingbrücke,wikidata,M,Q335977,way
 Redingstrasse,wikidata,M,Q335977,way
 "Rudolf Steiner-Weg",wikidata,M,Q78484,way
